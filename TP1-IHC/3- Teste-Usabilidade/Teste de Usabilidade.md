@@ -51,23 +51,6 @@ O teste foi dividido em:
 ### Particiopante 1: 
 # Relatório de Teste de Usabilidade — Participante P01
 
-| ID Part. | Tarefa | Tempo (s) | Resultado | Dificuldade (1-5) | Nº erros | Nº pedidos de ajuda | Observações                     |
-|----------|--------|-----------|-----------|-------------------|----------|----------------------|---------------------------------|
-| P01      | T1     | 12        | ✓         | 1                 | 0        | 0                    | Executou com facilidade         |
-| P01      | T2     | 25        | ✓         | 2                 | 1        | 0                    | Pequena hesitação               |
-| P01      | T3     | 40        | X         | 4                 | 3        | 1                    | Confusão com o botão            |
-| P01      | T4     | 18        | ✓         | 2                 | 0        | 0                    | Rápida execução                 |
-| P01      | T5     | 33        | ?         | 3                 | 2        | 1                    | Solicitou ajuda para entender   |
-| P01      | T6     | 22        | ✓         | 1                 | 0        | 0                    | Sem dificuldades                |
-| P01      | T7     | 55        | X         | 5                 | 4        | 2                    | Frustração visível              |
-| P01      | T8     | 29        | ✓         | 2                 | 1        | 0                    | Compreensão após tentativa      |
-| P01      | T9     | 38        | ✓         | 3                 | 2        | 1                    | Leve confusão inicial           |
-| P01      | T10    | 15        | ✓         | 1                 | 0        | 0                    | Finalizou com confiança         |
-| P01      | T11    | 47        | X         | 4                 | 3        | 1                    | Erros recorrentes               |
-| P01      | T12    | 20        | X         | 2                 | 1        | 0                    | Superou com leve dificuldade    |
-
-
-
 ### Particiopante 2:
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/✗) | Dificuldade (1–5) | Nº erros | Nº pedidos de ajuda | Observações                          |
 |----------|--------|-----------|--------------------|--------------------|----------|----------------------|--------------------------------------|
