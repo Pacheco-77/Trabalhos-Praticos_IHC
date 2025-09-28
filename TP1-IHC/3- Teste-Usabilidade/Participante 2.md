@@ -1,4 +1,19 @@
 # Participante 2
+
+## Informações do Participante:
+Nome: Eliana 
+
+Perfil: Usuário nível Intermediário. Já possui breve conhecimento com a tecnologia mas não possui muito conhecimento em compras em site de e-commerces.
+
+## Informações da Entrevista: 
+Data: 27/09/2025
+
+Local: Casa de um Integrante do grupo
+
+Formato: Presencial 
+
+Duração da sessão: 342,06 s
+
 ### 3. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                     |
