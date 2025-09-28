@@ -1,5 +1,5 @@
 # Participante 1
-##1. Registro por tarefa e por participante
+## 1. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✔/!/✗) | Dificuldade (1–5) | Nº erros | Nº pedidos de ajuda | Observações                                                 |
 |----------|--------|-----------|-------------------|-------------------|----------|---------------------|-------------------------------------------------------------|
@@ -16,4 +16,4 @@
 | P01      | T11    | 90,3      | ✗                 | 4                 | 5        | 2                   | Frete não era reconhecido                                   |
 | P01      | T12    | 48        | ✗                 | 4                 | 3        | 2                   | Não conseguiu mudar forma de pagamento após selecionar PIX  |
 
-##2. Resumo por participante
+## 2. Resumo por participante
