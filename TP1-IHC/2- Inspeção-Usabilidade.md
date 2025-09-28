@@ -12,4 +12,4 @@ Nesta etapa, foi realizado a avaliação heurística do sistema com base nas 10 
 
 Para a análise, foram estruturadas tabelas no Notion, garantindo organização e rastreabilidade de todos os achados. O trabalho contou com a participação ativa de todos os integrantes do grupo, que realizaram inspeções individuais e contribuíram na consolidação dos resultados.
 
-Link do Notion: 
+Link do Notion: https://www.notion.so/Inspe-o-de-requisitos-2705537d7d7f800da199f28759f31220?source=copy_link
