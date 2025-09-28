@@ -14,7 +14,7 @@ Formato: Presencial
 
 Duração da sessão: 342,06 s
 
-### 3. Registro por tarefa e por participante
+### 1. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                     |
 |----------|--------|-----------|--------------------|-------------------|----------|---------------------|----------------------------------|
@@ -31,7 +31,7 @@ Duração da sessão: 342,06 s
 | P02      | T11    | 39        | ✓                  | 1                 | 1        | 0                   | Não precisou de ajuda            |
 | P02      | T12    | 39        | ✓                  | 1                 | 1        | 0                   | Conseguiu realizar               |
 
-### 4. Resumo por participante
+### 2. Resumo por participante
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
 | P02      | 12          | 10         | 2                   | 0        | 342,6            | 75        |
