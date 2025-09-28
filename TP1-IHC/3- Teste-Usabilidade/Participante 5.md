@@ -3,7 +3,7 @@
 ## Informações do Participante:
 Nome: Eiji
 
-Perfil: Usuário nível Avançado. á possui familiaridade com tecnologia mas não tem muito conhecimentos em compras em site de e-commerce. 
+Perfil: Usuário nível Intermediário. Já possui familiaridade com tecnologia mas não tem muito conhecimentos em compras em site de e-commerce. 
 
 ## Informações da Entrevista: 
 Data: 24/09/2025
