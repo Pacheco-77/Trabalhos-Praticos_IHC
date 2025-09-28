@@ -10,7 +10,6 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 - Categorizar as rupturas segundo o conjunto de etiquetas do MAC.  
 - Observar como diferentes perfis de usuários reagem às mesmas situações.  
 
-## Gravação da Interação 
 
 ## Etiquetagem (tagging) das rupturas de comunicação
 
