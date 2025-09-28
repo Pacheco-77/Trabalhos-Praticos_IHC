@@ -17,3 +17,6 @@
 | P01      | T12    | 48        | ✗                 | 4                 | 3        | 2                   | Não conseguiu mudar forma de pagamento após selecionar PIX  |
 
 ## 2. Resumo por participante
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P01      | 12          | 5         | 3                    | 4        | 507,31             | 27,5        |
