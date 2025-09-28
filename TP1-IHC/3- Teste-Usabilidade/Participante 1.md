@@ -2,7 +2,8 @@
 
 ## Informações do Participante:
 Nome: Nelio Tobias 
-Perfil: 
+
+Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerces 
 
 ## Informações da Entrevista: 
 Data: 24/09/2025
