@@ -47,7 +47,7 @@ O teste foi dividido em:
    - O que mais dificultou o uso?  
    - Se pudesse mudar uma coisa, o que mudaria?
 
-## Registro por tarefa e por participante:
+## 1. Registro por tarefa e por participante:
 ### Particiopante 1: 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/✗) | Dificuldade (1–5) | Nº erros | Nº pedidos de ajuda | Observações                          |
 |----------|--------|-----------|--------------------|--------------------|----------|----------------------|--------------------------------------|
@@ -181,3 +181,17 @@ O teste foi dividido em:
 | P08      | T10    |           |                    |                    |          |                      |                                      |
 | P08      | T11    |           |                    |                    |          |                      |                                      |
 | P08      | T12    |           |                    |                    |          |                      |                                      |
+
+
+ ##2. Resumo por participante
+ ### Particiopante 1: 
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P01      | 10          | 7         | 2                    | 1        | 1235             | 72,5        |
+
+
+
+ ##3. Consolidação por tarefa (todos os participantes)
+
+
+ 
