@@ -13,6 +13,7 @@ Local: Laboratório da Ufam
 Formato: Presencial 
 
 Duração da sessão: 686,1 s
+### 1. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                 |
 |----------|--------|-----------|--------------------|-------------------|----------|---------------------|-----------------------------|
@@ -29,3 +30,4 @@ Duração da sessão: 686,1 s
 | P04      | T11    | 80        | ✓                  | 3                 | 2        | 0                   | Realizou com dificuldades   |
 | P04      | T12    | 40        | ✓                  | 1                 | 1        | 0                   | Não precisou de ajuda       |
 
+### 2. Resumo por participante
