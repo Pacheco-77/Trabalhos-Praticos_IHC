@@ -14,3 +14,18 @@ Formato: Presencial
 
 Duração da sessão: 686,1 s
 
+| ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                 |
+|----------|--------|-----------|--------------------|-------------------|----------|---------------------|-----------------------------|
+| P04      | T1     | 45        | ✓                  | 1                 | 1        | 0                   | Não teve dificuldade        |
+| P04      | T2     | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
+| P04      | T3     | 120       | ✓                  | 4                 | 3        | 0                   | Realizou com dificuldades   |
+| P04      | T4     | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
+| P04      | T5     | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
+| P04      | T6     | 90        | ✓                  | 4                 | 2        | 0                   | Realizou com dificuldades   |
+| P04      | T7     | 25        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P04      | T8     | 16        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P04      | T9     | 80        | ✓                  | 3                 | 2        | 0                   | Não precisou de ajuda       |
+| P04      | T10    | 10        | ✓                  | 1                 | 0        | 0                   | Não precisou de ajuda       |
+| P04      | T11    | 80        | ✓                  | 3                 | 2        | 0                   | Realizou com dificuldades   |
+| P04      | T12    | 40        | ✓                  | 1                 | 1        | 0                   | Não precisou de ajuda       |
+
