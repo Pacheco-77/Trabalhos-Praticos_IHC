@@ -12,3 +12,8 @@
 | P03      | T10    | 30        | ✓                  | 1                 | 0        | 0                   | Não precisou de ajuda       |
 | P03      | T11    | 30        | ✓                  | 1                 | 0        | 0                   | Não precisou de ajuda       |
 | P03      | T12    | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
+
+
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
+|----------|-------------|-----------|---------------------|----------|-----------------|-------------|
+| P03      | 12          | 12         | 0                   | 0        | 550,5            | 75        |
