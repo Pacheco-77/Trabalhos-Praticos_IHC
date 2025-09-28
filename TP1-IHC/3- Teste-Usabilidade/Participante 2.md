@@ -1,4 +1,5 @@
 # Participante 2
+### 4. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/✗) | Dificuldade (1–5) | Nº erros | Nº pedidos de ajuda | Observações                          |
 |----------|--------|-----------|--------------------|--------------------|----------|----------------------|--------------------------------------|
@@ -15,3 +16,4 @@
 | P02      | T11    |           |                    |                    |          |                      |                                      |
 | P02      | T12    |           |                    |                    |          |                      |                                      |
 
+### 4. Resumo por participante
