@@ -1,4 +1,16 @@
 # Participante 1
+
+## Informações do Participante:
+Nome: Nelio Tobias 
+Perfil: 
+
+## Informações da Entrevista: 
+Data: 24/09/2025
+Local: Laboratório da Ufam
+Formato: Presencial 
+Duração da sessão: 507,31 s
+
+
 ## 1. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✔/!/✗) | Dificuldade (1–5) | Nº erros | Nº pedidos de ajuda | Observações                                                 |
