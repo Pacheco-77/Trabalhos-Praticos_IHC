@@ -6,8 +6,11 @@ Perfil:
 
 ## Informações da Entrevista: 
 Data: 24/09/2025
+
 Local: Laboratório da Ufam
+
 Formato: Presencial 
+
 Duração da sessão: 507,31 s
 
 
