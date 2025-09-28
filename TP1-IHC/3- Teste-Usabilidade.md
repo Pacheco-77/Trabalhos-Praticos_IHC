@@ -190,8 +190,66 @@ O teste foi dividido em:
 | P01      | 10          | 7         | 2                    | 1        | 1235             | 72,5        |
 
 
+ ### Particiopante 2:
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P02      |             |           |                      |          |                  |             |
+
+ 
+ ### Particiopante 3: 
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P03      |             |           |                      |          |                  |             |
+
+ 
+ ### Particiopante 4: 
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P04      |             |           |                      |          |                  |             |
+
+ 
+ ### Particiopante 5:
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P05      |             |           |                      |          |                  |             |
+
+ 
+ ### Particiopante 6: 
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P06      |             |           |                      |          |                  |             |
+
+ 
+ ### Particiopante 7:
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P07      |             |           |                      |          |                  |             |
+
+ 
+ ### Particiopante 8:
+ | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
+|----------|-------------|-----------|----------------------|----------|------------------|-------------|
+| P08      |             |           |                      |          |                  |             |
+
+
 
  ##3. Consolidação por tarefa (todos os participantes)
+| Tarefa | Sucesso ✓ (%) | Sucesso com ajuda ! (%) | Falhas ✗ (%) | Tempo médio (s) | Erros médios | Ajuda média |
+|--------|----------------|--------------------------|--------------|------------------|---------------|--------------|
+| T1     |                |                          |              |                  |               |              |
+| T2     |                |                          |              |                  |               |              |
+| T3     |                |                          |              |                  |               |              |
+| T4     |                |                          |              |                  |               |              |
+| T5     |                |                          |              |                  |               |              |
+| T6     |                |                          |              |                  |               |              |
+| T7     |                |                          |              |                  |               |              |
+| T8     |                |                          |              |                  |               |              |
+| T9     |                |                          |              |                  |               |              |
+| T10    |                |                          |              |                  |               |              |
+| T11    |                |                          |              |                  |               |              |
+| T12    |                |                          |              |                  |               |              |
+
+
 
 
  
