@@ -15,7 +15,7 @@ Formato: Presencial
 Duração da sessão: 507,31 s
 
 
-## 1. Registro por tarefa e por participante
+### 1. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/✗) | Dificuldade (1–5) | Nº erros | Nº pedidos de ajuda | Observações                                                 |
 |----------|--------|-----------|-------------------|-------------------|----------|---------------------|-------------------------------------------------------------|
@@ -32,7 +32,7 @@ Duração da sessão: 507,31 s
 | P01      | T11    | 90,3      | ✗                 | 4                 | 5        | 2                   | Frete não era reconhecido                                   |
 | P01      | T12    | 48        | ✗                 | 4                 | 3        | 2                   | Não conseguiu mudar forma de pagamento após selecionar PIX  |
 
-## 2. Resumo por participante
+### 2. Resumo por participante
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
 |----------|-------------|-----------|----------------------|----------|------------------|-------------|
 | P01      | 12          | 5         | 3                    | 4        | 507,31             | 27,5        |
