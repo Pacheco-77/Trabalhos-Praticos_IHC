@@ -18,14 +18,6 @@ Formato: Presencial
 
 Duração da sessão: 735,02 s
 
-### Respostas das Perguntas Abertas
-
-| Pergunta | Resposta |
-|----------|----------|
-| **1. O que você mais gostou? Por quê?** | A facilidade de tirar produtos do carrinho, porque não precisa remover item por item em unidade. |
-| **2. O que mais dificultou o uso? Em que momento?** | Os filtros predefinidos atrapalham na pesquisa de produtos específicos. |
-| **3. Se pudesse mudar uma coisa, o que mudaria?** | O design da página: ela possui muita informação desnecessária para um site de loja. Deveria ser mais fácil visualizar as opções de compra sem um filtro ocupando quase 50% da tela. |
-
 
 ### 1. Registro por tarefa e por participante
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                     |
@@ -46,3 +38,11 @@ Duração da sessão: 735,02 s
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
 | P06      | 12          | 10         | 2                   | 1        | 735,02            | 47.5        |
+
+### Respostas das Perguntas Abertas
+
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | A facilidade de tirar produtos do carrinho, porque não precisa remover item por item em unidade. |
+| **2. O que mais dificultou o uso? Em que momento?** | Os filtros predefinidos atrapalham na pesquisa de produtos específicos. |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | O design da página: ela possui muita informação desnecessária para um site de loja. Deveria ser mais fácil visualizar as opções de compra sem um filtro ocupando quase 50% da tela. |
