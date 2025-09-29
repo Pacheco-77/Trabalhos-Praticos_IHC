@@ -21,15 +21,16 @@ Sistema Avaliado: Americanas.com
 
 1. [Descrição do Sistema](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md)
 
-   1.1 [Objetivo do Sistema](descricao-do-sistema/descricao-do-sistema.md#11-objetivo-do-sistema)
+   1.1 [Objetivo do Sistema](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#11-objetivo-do-sistema)
 
-   1.2 [Perfil dos Usuários](descricao-do-sistema/descricao-do-sistema.md#12-perfil-dos-usuarios)
+   1.2 [Perfil dos Usuários](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#12-perfil-dos-usuarios)
 
-     1.2.1 [Quem são os usuários](descricao-do-sistema/descricao-do-sistema.md#12-perfil-dos-usuarios###quem-sao-os-usuarios)
+     1.2.1 [Quem são os usuários](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#quem-sao-os-usuarios)
 
-     1.2.2 [Conhecimentos prévios e experiência](descricao-do-sistema/descricao-do-sistema.md#12-perfil-dos-usuarios###conhecimentos-previos-e-experiencia)
+     1.2.2 [Conhecimentos prévios e experiência](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#conhecimentos-previos-e-experiencia)
 
-     1.2.3 [Tarefas-chave](descricao-do-sistema/descricao-do-sistema.md#12-perfil-dos-usuarios###tarefas--chave)
+     1.2.3 [Tarefas-chave](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#tarefas-chave)
+
     
 
 3. [Inspeção de Usabilidade](2-%20Inspe%C3%A7%C3%A3o-Usabilidade/Inspe%C3%A7%C3%A3o%20de%20Usabilidade.md)  
