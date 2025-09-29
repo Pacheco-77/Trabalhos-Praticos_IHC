@@ -45,6 +45,6 @@ Duração da sessão: 507,31 s
 ### Respostas das Perguntas Abertas
 | Pergunta | Resposta |
 |----------|----------|
-| **1. O que você mais gostou? Por quê?** | A diversidade de itens, pois consigo encontrar de tudo |
-| **2. O que mais dificultou o uso? Em que momento?** | As cores fortes, na página inicial e em qualquer menu |
-| **3. Se pudesse mudar uma coisa, o que mudaria?** | Deixaria mais fácil para comprar itens |
+| 1. O que você mais gostou? Por quê?| A diversidade de itens, pois consigo encontrar de tudo |
+| 2. O que mais dificultou o uso? Em que momento? | As cores fortes, na página inicial e em qualquer menu |
+| 3. Se pudesse mudar uma coisa, o que mudaria? | Deixaria mais fácil para comprar itens |
