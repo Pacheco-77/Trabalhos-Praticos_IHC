@@ -1,4 +1,4 @@
-# Conclusão Wamberson Pacheco
+# 6.5 Conclusão Wamberson Pacheco
 
 ### Desafios :
 Aprendi que olhar para um sistema com os olhos do usuário é essencial. Coisas que parecem simples para quem desenvolve, como a posição de um botão ou a cor de um menu, podem gerar confusão ou até afastar o usuário. A experiência precisa ser pensada com cuidado, levando em conta diferentes perfis e necessidades.
