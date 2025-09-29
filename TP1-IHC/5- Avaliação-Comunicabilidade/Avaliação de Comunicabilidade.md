@@ -11,7 +11,7 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 - Categorizar as rupturas segundo o conjunto de etiquetas do MAC.  
 - Observar como diferentes perfis de usuários reagem às mesmas situações.  
 
-## 5.3 As avaliações serão realizadas com as usuárias Vitoria Teixeira e Ray Guimarães  
+## 5.3 As avaliações serão realizadas com as usuárias U1-Vitoria Teixeira e U2-Ray Guimarães  
 
 ### 5.3.1 Etiquetagem (tagging) das rupturas de comunicação
 | Part. | Tarefa | Timestamp | Trecho observado                        | Etiqueta MAC     | Interpretação                                                                 |
