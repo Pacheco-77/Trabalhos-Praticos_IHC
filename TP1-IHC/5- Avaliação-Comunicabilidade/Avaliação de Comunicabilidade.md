@@ -16,4 +16,5 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 ## Tabulação e interpretação dos resultados
 
 ## Link do Vídeo no YouTube
+O link apresentado abaixo, contém a aplicação do Método Avaliação de Comunicabilidade (MAC) com 2 usuários de perfis diferentes, como solicitado nos requisitos do TP1.
 https://youtu.be/h0Ymb5WImmA
