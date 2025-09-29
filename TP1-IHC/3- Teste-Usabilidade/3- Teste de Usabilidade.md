@@ -1,4 +1,4 @@
-# Teste de Usabilidade
+# 3. Teste de Usabilidade
 
 O Teste de Usabilidade tem o objetivo de avaliar a eficácia, eficiência e satisfação dos usuários ao interagir com o sistema. Para isso, planejamos e executamos sessões estruturadas, seguindo as orientações do enunciado da atividade.
 
@@ -8,8 +8,8 @@ O teste foi dividido em:
 - Execução com participantes – aplicação do teste com 8 participantes, cada um realizando pelo menos 10 tarefas representativas do uso real do sistema. Durante as sessões, coletamos dados como taxa de sucesso, tempo de execução, número de erros e pedidos de ajuda.
 - Pós-teste – aplicação do questionário SUS (System Usability Scale) e realização de perguntas abertas para identificar percepções qualitativas sobre pontos positivos, dificuldades e sugestões de melhoria.
 
-## Especificações:
-### Produto e Ambiente
+## 3.1 Especificações:
+### 3.1.1 Produto e Ambiente
 - **Produto:** Site da Americanas (versão web mais recente disponível em setembro/2025).  
 - **Ambiente:** Desktop.  
 - **Sistema Operacional:** Windows 10/11 (desktop).  
@@ -19,23 +19,23 @@ O teste foi dividido em:
   - Mobile: aproximadamente 1080x2400 px.  
 - **Conexão:** Wi-Fi banda larga (≈100 Mbps). 
 
-### Objetivo do Teste:
+### 3.1.2 Objetivo do Teste:
 - Avaliar clareza e facilidade de funcionalidades como cadastro/login.  
 - Verificar eficiência da busca e filtros de produtos.  
 - Medir a fluidez no processo de compra (carrinho, checkout e pagamento).  
 - Identificar erros recorrentes ou dificuldades de navegação. 
 
-### Perfis dos Participantes
+### 3.1.3 Perfis dos Participantes
 - Critérios de inclusão: usuários habituados a e-commerces, diferentes níveis de experiência digital.  
 - Critérios de exclusão: participantes do próprio grupo de pesquisa.  
 - Forma de recrutamento: convite informal entre colegas e familiares, garantindo diversidade de idade, gênero e experiência de compra online.  
 
 
-###  Equipamentos Necessários
+### 3.1.4 Equipamentos Necessários
 - Computador (desktop/laptop).  
 - Celular (para registros fotográficos e cronômetro). 
 
-### Guia do Facilitador
+### 3.1.5 Guia do Facilitador
 1. Boas-vindas: agradecer a participação e explicar brevemente o objetivo.  
 2. Consentimento (TCLE): confirmar aceite e lembrar que os dados são apenas para pesquisa acadêmica.  
 3. Explicação do método: reforçar que não é uma avaliação da pessoa, mas sim do sistema.  
@@ -47,7 +47,7 @@ O teste foi dividido em:
    - O que mais dificultou o uso?  
    - Se pudesse mudar uma coisa, o que mudaria?
 
-### 1. Registro por tarefa e por participante:
+## 3.2 Registro por tarefa e por participante:
 #### Particiopante 1: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%201.md#1-registro-por-tarefa-e-por-participante)
 #### Particiopante 2: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%202.md#1-registro-por-tarefa-e-por-participante)
 #### Particiopante 3: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%203.md#1-registro-por-tarefa-e-por-participante)
@@ -57,7 +57,7 @@ O teste foi dividido em:
 #### Particiopante 7: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%207.md#1-registro-por-tarefa-e-por-participante)
 #### Particiopante 8: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%208.md#1-registro-por-tarefa-e-por-participante)
 
- ### 2. Resumo por participante
+ ## 3.3 Resumo por participante
  #### Particiopante 1: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%201.md#2-resumo-por-participante)
 #### Particiopante 2: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%202.md#2-resumo-por-participante)
 #### Particiopante 3: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%203.md#2-resumo-por-participante)
@@ -67,7 +67,7 @@ O teste foi dividido em:
 #### Particiopante 7: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%207.md#2-resumo-por-participante)
 #### Particiopante 8: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%208.md#2-resumo-por-participante)
 
- ### 3. Consolidação por tarefa (todos os participantes)
+ ### 3.4 Consolidação por tarefa (todos os participantes)
 | Tarefa   |   Sucesso ✓ (%) |   Sucesso com ajuda ! (%) |   Falhas ✗ (%) |   Tempo médio (s) |   Erros médios |   Ajuda média |
 |:---------|----------------:|--------------------------:|---------------:|------------------:|---------------:|--------------:|
 | T1       |            87.5 |                      12.5 |            0   |             41.41 |           0.88 |          0.25 |
@@ -83,7 +83,7 @@ O teste foi dividido em:
 | T11      |            62.5 |                      25   |           12.5 |             58.04 |           1.38 |          0.38 |
 | T12      |            50   |                      37.5 |           12.5 |             69.00 |           1.38 |          0.63 |
 
-### 4. Análise Quantitativa
+### 3.5 Análise Quantitativa
 A análise dos dados mostra que, no geral, o desempenho nas tarefas foi positivo, embora algumas variações chamem atenção especialmente no tempo médio de execução, na taxa de sucesso e na quantidade de erros e pedidos de ajuda. Todas as tarefas tiveram pelo menos 50% de sucesso, o que já é um bom sinal. Algumas se destacaram, como T2, T3 e T10, que foram concluídas com 100% de acerto e sem necessidade de ajuda, mostrando que estão bem ajustadas.
 
 Por outro lado, tarefas como T4, T11 e T12 tiveram resultados mais modestos, com taxas de sucesso entre 50% e 62,5%. Além disso, apresentaram falhas e uma maior dependência de ajuda especialmente T12, onde 37,5% dos participantes precisaram de suporte. Isso indica que essas tarefas podem estar mais difíceis ou confusas.
@@ -94,7 +94,7 @@ Os pedidos de ajuda foram relativamente baixos, com o maior índice sendo 0,63 e
 
 Em resumo, tarefas como T7, T8 e T10, que foram rápidas e com poucos erros, demonstram boa usabilidade. Já T9, T11 e T12 parecem precisar de ajustes, seja no design ou na clareza das instruções, para reduzir os erros e tornar a experiência mais intuitiva.
 
-### 5. Análise SUS
+### 3.6 Análise SUS
 | ID   | TAREFAS | SUCESSO | SUCESSO COM AJUDA | FALHAS | TEMPO TOTAL (s) | SUS (0-100) |
 |:-----|:--------|:--------|:------------------|:-------|:----------------|:------------|
 | P01  | 12      | 5       | 3                 | 4      | 507,31          | 27,5        |
