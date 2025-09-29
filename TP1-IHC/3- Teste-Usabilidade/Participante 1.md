@@ -5,9 +5,9 @@ Nome: Nelio Tobias
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerces 
 
-<img width="980" height="1000" alt="Part1" src="https://github.com/user-attachments/assets/998781d9-fc6d-48db-a940-3cfab309ecbc" />
+<img width="480" height="450" alt="Part1" src="https://github.com/user-attachments/assets/998781d9-fc6d-48db-a940-3cfab309ecbc" />
 
-
+Foto do participante durante o teste
 
 ## Informações da Entrevista: 
 Data: 24/09/2025
