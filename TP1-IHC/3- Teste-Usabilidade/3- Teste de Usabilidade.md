@@ -83,6 +83,30 @@ O teste foi dividido em:
 | T11      |            62.5 |                      25   |           12.5 |             58.04 |           1.38 |          0.38 |
 | T12      |            50   |                      37.5 |           12.5 |             69.00 |           1.38 |          0.63 |
 
+### 4. Análise Quantitativa
+A análise dos dados mostra que, no geral, o desempenho nas tarefas foi positivo, embora algumas variações chamem atenção especialmente no tempo médio de execução, na taxa de sucesso e na quantidade de erros e pedidos de ajuda. Todas as tarefas tiveram pelo menos 50% de sucesso, o que já é um bom sinal. Algumas se destacaram, como T2, T3 e T10, que foram concluídas com 100% de acerto e sem necessidade de ajuda, mostrando que estão bem ajustadas.
+
+Por outro lado, tarefas como T4, T11 e T12 tiveram resultados mais modestos, com taxas de sucesso entre 50% e 62,5%. Além disso, apresentaram falhas e uma maior dependência de ajuda especialmente T12, onde 37,5% dos participantes precisaram de suporte. Isso indica que essas tarefas podem estar mais difíceis ou confusas.
+
+O tempo médio para concluir as tarefas variou bastante: de apenas 18,75 segundos em T7 até 69 segundos em T12. Isso sugere que quanto maior a complexidade ou dificuldade (como nas tarefas T3 e T12, classificadas entre níveis 3 e 5), mais tempo é necessário para finalizá-las. A quantidade de erros também variou: enquanto T10 não teve nenhum, T9 e T11 registraram os maiores índices (2 e 1,38 erros, respectivamente), o que pode apontar para problemas nas instruções ou no design dessas tarefas.
+
+Os pedidos de ajuda foram relativamente baixos, com o maior índice sendo 0,63 em T12. No entanto, eles foram mais comuns nas tarefas em que o sucesso veio com assistência, como T1, T4, T5 e T11 — o que reforça a importância de oferecer suporte quando há dificuldade.
+
+Em resumo, tarefas como T7, T8 e T10, que foram rápidas e com poucos erros, demonstram boa usabilidade. Já T9, T11 e T12 parecem precisar de ajustes, seja no design ou na clareza das instruções, para reduzir os erros e tornar a experiência mais intuitiva.
+
+### 5. Análise SUS
+| ID   | TAREFAS | SUCESSO | SUCESSO COM AJUDA | FALHAS | TEMPO TOTAL (s) | SUS (0-100) |
+|:-----|:--------|:--------|:------------------|:-------|:----------------|:------------|
+| P01  | 12      | 5       | 3                 | 4      | 507,31          | 27,5        |
+| P02  | 12      | 10      | 2                 | 0      | 342,6           | 75          |
+| P03  | 12      | 12      | 0                 | 0      | 550,75          | 75          |
+| P04  | 12      | 12      | 0                 | 0      | 686             | 80          |
+| P05  | 12      | 10      | 2                 | 0      | 627,03          | 20          |
+| P06  | 12      | 10      | 2                 | 1      | 735,02          | 47,5        |
+| P07  | 12      | 9       | 3                 | 0      | 529             | 75          |
+| P08  | 12      | 12      | 0                 | 0      | 302             | 80          |
+
+No presente estudo, a média do System Usability Scale (SUS) obtida entre os oito participantes foi de 60,0 pontos, valor que se enquadra na faixa considerada “Ok (aceitável)” segundo a escala de Bangor (2009). Esse resultado indica que, embora o sistema apresente um nível de usabilidade funcional, ainda existem aspectos que podem ser aprimorados para alcançar classificações mais elevadas, como “Bom” ou “Excelente”. Dessa forma, a pontuação sugere que o sistema atende parcialmente às expectativas dos usuários, mas exige ajustes para proporcionar uma experiência mais satisfatória e eficiente.
 
 
 
