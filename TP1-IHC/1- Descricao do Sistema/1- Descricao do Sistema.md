@@ -1,4 +1,4 @@
-# Objetivo do Sistema
+# 1. Objetivo do Sistema
 
 | **Aspecto**            | **Descrição** |
 |------------------------|---------------|
@@ -9,21 +9,21 @@
 
 
 
-# Perfil dos Usuários
+# 2. Perfil dos Usuários
 
-### Quem são os usuários:
+## 2.1 Quem são os usuários:
 - Clientes em geral: pessoas interessadas em comprar produtos online (ex.: eletrônicos, roupas, livros, eletrodomésticos, etc).
 - Estudantes e jovens adultos: buscam promoções, livros, eletrônicos, games e itens de uso pessoal.
 - Famílias: compram itens de mercado, eletrodomésticos, móveis e utilidades domésticas.
 - Profissionais: utilizam o site para adquirir equipamentos de trabalho, informática, escritório e serviços digitais.
 - Clientes corporativos: empresas que compram em maior volume ou itens específicos para operação.
 
-### Conhecimentos prévios e experiência:
+## 2.2 Conhecimentos prévios e experiência:
 - Novatos: usuários novos com pouca experiência em compras online e precisam de um fluxo simples e confiável.
 - Intermediários: usuários que já compraram em outros e-commerces, já possuem conhecimentos prévios sobre sites de compras e sabem comparar preços, usar filtros e acompanhar pedidos.
 - Experientes: compradores recorrentes, já possuem familiaridade com e-commerces e que usam recursos avançados como cupons de desconto, cashback, parcelamento e preferem agilidade na compra.
 
-### Tarefas-chave:
+## 2.3 Tarefas-chave:
 - Pesquisar produtos: usar barra de busca, categorias e filtros (categoria, preço, marca, avaliação, condição do item).
 - Comparar preços e ofertas: avaliar promoções, cupons e parcelamento.
 - Adicionar ao carrinho: selecionar produtos, definir quantidade, verificar disponibilidade.
