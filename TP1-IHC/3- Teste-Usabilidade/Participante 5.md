@@ -5,6 +5,10 @@ Nome: Eiji
 
 Perfil: Usuário nível Intermediário. Já possui familiaridade com tecnologia mas não tem muito conhecimentos em compras em site de e-commerce. 
 
+<img width="480" height="450" alt="Part6" src="https://github.com/user-attachments/assets/3c9cca8f-13e5-4af7-816b-797b51ae7d4d" />
+
+Foto do participante durante o teste
+
 ## Informações da Entrevista: 
 Data: 24/09/2025
 
