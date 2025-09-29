@@ -5,6 +5,10 @@ Nome: Valdecir Reis
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerce. 
 
+<img width="480" height="450" alt="Part7" src="https://github.com/user-attachments/assets/44795c05-62cc-4841-9e87-61e1d40b0e3a" />
+
+Foto do participante durante o teste
+
 ## Informações da Entrevista: 
 Data: 24/09/2025
 
