@@ -10,7 +10,7 @@ Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e com
 Foto do participante durante o teste
 
 ## Informações da Entrevista: 
-Data: 24/09/2025
+Data: 25/09/2025
 
 Local: Laboratório da Ufam
 
