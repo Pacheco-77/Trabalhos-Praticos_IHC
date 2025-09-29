@@ -67,7 +67,7 @@ O teste foi dividido em:
 #### Particiopante 7: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%207.md#2-resumo-por-participante)
 #### Particiopante 8: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%208.md#2-resumo-por-participante)
 
- ## 3. Consolidação por tarefa (todos os participantes)
+ ### 3. Consolidação por tarefa (todos os participantes)
 | Tarefa   |   Sucesso ✓ (%) |   Sucesso com ajuda ! (%) |   Falhas ✗ (%) |   Tempo médio (s) |   Erros médios |   Ajuda média |
 |:---------|----------------:|--------------------------:|---------------:|------------------:|---------------:|--------------:|
 | T1       |            87.5 |                      12.5 |            0   |             41.41 |           0.88 |          0.25 |
