@@ -5,6 +5,9 @@ Nome: Silvia
 
 Perfil: Usuário nível Intermediário. Já possui familiaridade com tecnologia mas não tem muito conhecimentos em compras em site de e-commerces 
 
+![part 4](https://github.com/user-attachments/assets/0a311d0b-7038-4045-a714-f0467a9f80df)
+Foto do participante durante o teste
+
 ## Informações da Entrevista: 
 Data: 24/09/2025
 
