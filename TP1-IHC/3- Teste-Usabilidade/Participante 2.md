@@ -5,6 +5,10 @@ Nome: Eliana
 
 Perfil: Usuário nível Intermediário. Já possui breve conhecimento com a tecnologia mas não possui muito conhecimento em compras em site de e-commerces.
 
+<img width="480" height="450" alt="Part3" src="https://github.com/user-attachments/assets/3b6f489a-80f6-4fab-9d68-3b65ac818799" />
+
+Foto do participante durante o Teste.
+
 ## Informações da Entrevista: 
 Data: 27/09/2025
 
