@@ -18,15 +18,6 @@ Formato: Presencial
 
 Duração da sessão: 550,05 s
 
-## Resposta das Perguntas Abertas
-| Pergunta | Resposta |
-|----------|----------|
-| **1. O que você mais gostou? Por quê?** | Como as promoções são exibidas de forma criativa na página inicial |
-| **2. O que mais dificultou o uso? Em que momento?** | Adicionar o produto ao carrinho, pois procurei pelo botão “Adicionar ao carrinho” como geralmente é em todos os sites de compra, mas no site da Americanas é “Comprar”. |
-| **3. Se pudesse mudar uma coisa, o que mudaria?** | Colocaria o ícone de carrinho para ser mais fácil de acessar, um atalho. |
-
-
-
 
 ## 1. Registro por tarefa e por participante
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                 |
@@ -50,3 +41,10 @@ Duração da sessão: 550,05 s
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
 | P03      | 12          | 12         | 0                   | 0        | 550,5            | 75        |
+
+## Resposta das Perguntas Abertas
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | Como as promoções são exibidas de forma criativa na página inicial |
+| **2. O que mais dificultou o uso? Em que momento?** | Adicionar o produto ao carrinho, pois procurei pelo botão “Adicionar ao carrinho” como geralmente é em todos os sites de compra, mas no site da Americanas é “Comprar”. |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Colocaria o ícone de carrinho para ser mais fácil de acessar, um atalho. |
