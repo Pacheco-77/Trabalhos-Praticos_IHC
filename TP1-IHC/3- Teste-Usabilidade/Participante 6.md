@@ -7,7 +7,7 @@ Perfil: Usuário nível Intermediário. Já possui familiaridade com tecnologia 
 
 <img width="480" height="450" alt="Part6" src="https://github.com/user-attachments/assets/242feee9-3102-4e21-b3c2-db60db3b2297" />
 
-
+Foto do participante durante o teste
 
 ## Informações da Entrevista: 
 Data: 24/09/2025
