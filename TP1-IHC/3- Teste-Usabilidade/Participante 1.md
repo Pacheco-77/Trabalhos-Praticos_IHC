@@ -5,6 +5,10 @@ Nome: Nelio Tobias
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerces 
 
+<img width="980" height="1000" alt="Part1" src="https://github.com/user-attachments/assets/998781d9-fc6d-48db-a940-3cfab309ecbc" />
+
+
+
 ## Informações da Entrevista: 
 Data: 24/09/2025
 
@@ -13,6 +17,7 @@ Local: Laboratório da Ufam
 Formato: Presencial 
 
 Duração da sessão: 507,31 s
+
 
 
 ### 1. Registro por tarefa e por participante
