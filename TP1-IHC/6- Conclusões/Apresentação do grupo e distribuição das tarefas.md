@@ -7,8 +7,8 @@ Garantir transparência de contribuição, organização e esforço.
 
 ## Integrantes
 - **A1**: Ana Paula Xavier — 22352610
-- **A2**: Josiel Santos Monteiro — Matrícula
-- **A3**: Wamberson Pacheco — Matrícula
+- **A2**: Josiel Santos Monteiro — 22352319
+- **A3**: Wamberson Pacheco — 22352620
 - **A4**: Eugênio — 22352093
 
 
