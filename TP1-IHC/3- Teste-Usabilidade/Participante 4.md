@@ -31,3 +31,6 @@ Duração da sessão: 686,1 s
 | P04      | T12    | 40        | ✓                  | 1                 | 1        | 0                   | Não precisou de ajuda       |
 
 ### 2. Resumo por participante
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
+|----------|-------------|-----------|---------------------|----------|-----------------|-------------|
+| P04      | 12          | 12         | 0                   | 0        | 686,1            | 80        |
