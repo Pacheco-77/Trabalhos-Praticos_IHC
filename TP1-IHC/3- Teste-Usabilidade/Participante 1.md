@@ -41,3 +41,10 @@ Duração da sessão: 507,31 s
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas ✗ | Tempo total (s) | SUS (0–100) |
 |----------|-------------|-----------|----------------------|----------|------------------|-------------|
 | P01      | 12          | 5         | 3                    | 4        | 507,31             | 27,5        |
+
+### Respostas das Perguntas Abertas
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | A diversidade de itens, pois consigo encontrar de tudo |
+| **2. O que mais dificultou o uso? Em que momento?** | As cores fortes, na página inicial e em qualquer menu |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Deixaria mais fácil para comprar itens |
