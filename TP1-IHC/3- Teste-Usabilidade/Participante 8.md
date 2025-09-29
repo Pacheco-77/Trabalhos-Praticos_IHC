@@ -20,15 +20,6 @@ Formato: Presencial
 Duração da sessão: 302s
 
 
-### Respostas das Perguntas Abertas
-| Pergunta | Resposta |
-|----------|----------|
-| **1. O que você mais gostou? Por quê?** | A facilidade de navegação entre as categorias, pois é bem dividido e explícito |
-| **2. O que mais dificultou o uso? Em que momento?** | As cores, na página inicial |
-| **3. Se pudesse mudar uma coisa, o que mudaria?** | Escolheria cores mais neutras e faria um layout mais simples |
-
-
-
 ### 1. Registro por tarefa e por participante
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                 |
 |----------|--------|-----------|--------------------|-------------------|----------|---------------------|-----------------------------|
@@ -48,3 +39,12 @@ Duração da sessão: 302s
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
 | P08      | 12          | 12         | 0                   | 0        | 302            | 80       |
+
+
+### Respostas das Perguntas Abertas
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | A facilidade de navegação entre as categorias, pois é bem dividido e explícito |
+| **2. O que mais dificultou o uso? Em que momento?** | As cores, na página inicial |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Escolheria cores mais neutras e faria um layout mais simples |
+
