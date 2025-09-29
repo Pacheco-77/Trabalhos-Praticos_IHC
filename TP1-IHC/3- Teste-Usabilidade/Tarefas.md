@@ -1,4 +1,4 @@
-## 3.7 Lista de Tarefas para os participantes do Teste
+## 3.8 Lista de Tarefas para os participantes do Teste
 
 | Tarefa                     | Ação                                                                 |
 |----------------------------|----------------------------------------------------------------------|
