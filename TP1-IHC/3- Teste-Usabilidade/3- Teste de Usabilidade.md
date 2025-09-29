@@ -84,15 +84,31 @@ O teste foi dividido em:
 | T12      |            50   |                      37.5 |           12.5 |             69.00 |           1.38 |          0.63 |
 
 ## 3.5 Análise Quantitativa
-A análise dos dados mostra que, no geral, o desempenho nas tarefas foi positivo, embora algumas variações chamem atenção especialmente no tempo médio de execução, na taxa de sucesso e na quantidade de erros e pedidos de ajuda. Todas as tarefas tiveram pelo menos 50% de sucesso, o que já é um bom sinal. Algumas se destacaram, como T2, T3 e T10, que foram concluídas com 100% de acerto e sem necessidade de ajuda, mostrando que estão bem ajustadas.
+### Taxa de sucesso
+A maioria das tarefas apresenta alto índice de sucesso, especialmente T2, T3 e T10, que obtiveram 100% de conclusão sem ajuda.
+As tarefas mais críticas em termos de sucesso foram T12 (50%) e T4 (62,5%), mostrando maior dificuldade dos participantes.
 
-Por outro lado, tarefas como T4, T11 e T12 tiveram resultados mais modestos, com taxas de sucesso entre 50% e 62,5%. Além disso, apresentaram falhas e uma maior dependência de ajuda especialmente T12, onde 37,5% dos participantes precisaram de suporte. Isso indica que essas tarefas podem estar mais difíceis ou confusas.
+### Sucesso com ajuda
+Algumas tarefas exigiram bastante apoio, como T12 (37,5%) e T4 (37,5%), sugerindo que os usuários conseguiam realizá-las, mas apenas com suporte adicional.
+Em tarefas simples como T2, T3 e T10, não houve necessidade de ajuda.
 
-O tempo médio para concluir as tarefas variou bastante: de apenas 18,75 segundos em T7 até 69 segundos em T12. Isso sugere que quanto maior a complexidade ou dificuldade (como nas tarefas T3 e T12, classificadas entre níveis 3 e 5), mais tempo é necessário para finalizá-las. A quantidade de erros também variou: enquanto T10 não teve nenhum, T9 e T11 registraram os maiores índices (2 e 1,38 erros, respectivamente), o que pode apontar para problemas nas instruções ou no design dessas tarefas.
+### Falhas
+As falhas ocorreram em T6, T7, T11 e T12 (12,5% cada).
+Isso indica que, em alguns casos, mesmo com ajuda, parte dos participantes não conseguiu concluir a tarefa.
 
-Os pedidos de ajuda foram relativamente baixos, com o maior índice sendo 0,63 em T12. No entanto, eles foram mais comuns nas tarefas em que o sucesso veio com assistência, como T1, T4, T5 e T11 — o que reforça a importância de oferecer suporte quando há dificuldade.
+### Tempo médio
 
-Em resumo, tarefas como T7, T8 e T10, que foram rápidas e com poucos erros, demonstram boa usabilidade. Já T9, T11 e T12 parecem precisar de ajustes, seja no design ou na clareza das instruções, para reduzir os erros e tornar a experiência mais intuitiva.
+As tarefas mais rápidas foram T7 (18,75s) e T10 (20,38s), provavelmente por serem mais diretas.
+
+Já as mais demoradas foram T12 (69s) e T3 (67,88s), que coincidem com as de maior dificuldade.
+
+### Erros médios
+Destacam-se T9 (2,0 erros), T11 (1,38) e T12 (1,38), o que reforça a ideia de maior complexidade ou problemas de usabilidade nessas tarefas.
+Nas tarefas de maior sucesso pleno (T2, T10), os erros médios foram praticamente nulos.
+
+### Ajuda média
+As tarefas que demandaram mais apoio foram T12 (0,63) e T4 (0,50).
+Isso mostra pontos críticos onde o sistema pode ser melhorado em termos de clareza ou orientação ao usuário.
 
 ## 3.6 Análise SUS
 | ID   | TAREFAS | SUCESSO | SUCESSO COM AJUDA | FALHAS | TEMPO TOTAL (s) | SUS (0-100) |
