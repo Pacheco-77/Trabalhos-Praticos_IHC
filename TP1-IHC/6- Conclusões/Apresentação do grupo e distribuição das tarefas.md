@@ -16,9 +16,11 @@ Garantir transparência de contribuição, organização e esforço.
 ## Lista de Tarefas
 - **T1**: (Criar a apresentação do grupo e tabela de distribuição de tarefas)
 - **T2**: (Criação dos Objetivo do sistema e perfil dos usuários)
-- **T3**: (Criar Repositório no Notion)
-- **T4**: (Realizar a avaliação do site da Americanas e inserir no Notion)
-- **T5**: (Organizar as etapas do trabalho no Notion)
+- **T3**: (Primeira avaliação — Inspeção de Usabilidade)
+- **T4**: (Segunda avaliação – Teste de Usabilidade)
+- **T5**: (Organizar as etapas do trabalho no Notion)Terceira avaliação – UX
+- **T6**: (Quarta Avaliação –Comunicabilidade (MAC))
+- **T7**: (Conclusões e reflexões sobre o aprendizado)
 
 
 ## Distribuição de Trabalho
@@ -27,9 +29,11 @@ Garantir transparência de contribuição, organização e esforço.
 |--------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | **T1**       | A2:2 | A3:1 | - | - | - | - | - | - | - | - | - | - | - | - | A1,A3:2 | - | - | - | - | - | - | - |
 | **T2**       |  - |  - | -  | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A3:3 | - |
-| **T3**       | A4:2 | - | - | - | - | - | - | - | - | A4:2 | - | - | - | - | - | - | - | - | - | - | - | - |
-| **T4**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1:2, A3:2 | A1:2, A3:2, A2:4 | A3:2 | - | - | - | - | - |
-| **T5**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A4,A3:4 | - | - | - | A4,A3:2 | A4:1 | - |
+| **T3**       | A4:2 | - | - | - | - | - | - | - | - | A4:2 | - | - | - | - | A1:2, A3:2 | A1:2, A3:2, A2:4, A4:4 | A3:2 | - | A4,A3:2 | A4:1 | - | - |
+| **T4**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| **T5**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| **T6**       |  - |  - | -  | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| **T7**       |  - |  - | -  | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
  
 
 ✍️ **Legenda**:  
