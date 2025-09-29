@@ -86,12 +86,11 @@ O teste foi dividido em:
 ## 3.5 Análise Quantitativa
 
 ***Gráfico de Desempenho por Tarefa***
-
 ![WhatsApp Image 2025-09-29 at 10 58 18_99c462d0](https://github.com/user-attachments/assets/6e9d7865-e781-46a1-8c6b-a1392b746f89)
 - **Imagem 1**: Gráfico de barras mostrando o desempenho por tarefa, com percentuais de sucesso, sucesso com ajuda e falhas para cada tarefa de T1 a T12.
+  
 
 ***Gráfico de Métricas adicionadas por Tarefa***
-
 ![WhatsApp Image 2025-09-29 at 10 58 18_c63de9ac](https://github.com/user-attachments/assets/c6284928-3390-40ad-b9ac-fe950b6cc80b)
 - **Imagem 2**: Gráfico de linhas ilustrando métricas adicionais por tarefa, incluindo tempo médio, erros médios e ajuda média de T1 a T12.
 
