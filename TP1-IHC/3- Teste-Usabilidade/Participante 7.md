@@ -18,6 +18,15 @@ Formato: Presencial
 
 Duração da sessão: 529,00 s
 
+### Respostas das Perguntas Abertas
+
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | Gostei da variedade de produtos, fácil encontrar tudo que preciso. |
+| **2. O que mais dificultou o uso? Em que momento?** | Dificultou a navegação por causa do excesso de banners. |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Mudaria para deixar o site mais limpo e com filtros mais visíveis. |
+
+
 ### 1. Registro por tarefa e por participante
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                     |
 |----------|--------|-----------|--------------------|-------------------|----------|---------------------|---------------------------------|
