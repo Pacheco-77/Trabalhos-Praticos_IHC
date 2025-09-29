@@ -36,7 +36,7 @@ Garantir transparência de contribuição, organização e esforço.
 | **T7**       |  - |  - | -  | - | - | - | - | A3:2|A3:2 | - | - | - | - | - | - | - | A3:1 | - | - | - | - | A1:1,A2:1,A3:1,A4:1 |
  
 
-✍️ **6.1.5 Legenda**:  
+✍️ **Legenda**:  
 - `A1:2` → Integrante A1 trabalhou 2h.  
 - `A1,A2:2` → A1 e A2 trabalharam juntos 2h (cada um).  
 
