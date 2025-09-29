@@ -19,6 +19,16 @@ Formato: Presencial
 
 Duração da sessão: 302s
 
+
+### Respostas das Perguntas Abertas
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | A facilidade de navegação entre as categorias, pois é bem dividido e explícito |
+| **2. O que mais dificultou o uso? Em que momento?** | As cores, na página inicial |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Escolheria cores mais neutras e faria um layout mais simples |
+
+
+
 ### 1. Registro por tarefa e por participante
 
 ### 2. Resumo por participante
