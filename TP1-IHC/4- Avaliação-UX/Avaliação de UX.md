@@ -18,5 +18,6 @@ O objetivo foi compreender a percepção subjetiva dos participantes sobre o sis
 
 
 ## Benchmark
+<img width="2339" height="1654" alt="bench-1" src="https://github.com/user-attachments/assets/b176f385-194c-4b2d-8582-b4b34aab2c84" />
 
 ## Interpretação contextualizada
