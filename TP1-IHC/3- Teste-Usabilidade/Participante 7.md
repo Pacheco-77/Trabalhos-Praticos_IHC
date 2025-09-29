@@ -17,3 +17,6 @@ Duração da sessão: 627,03 s
 ### 1. Registro por tarefa e por participante
 
 ### 2. Resumo por participante
+| ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
+|----------|-------------|-----------|---------------------|----------|-----------------|-------------|
+| P07      | 10          | 7         | 2                   | 1        | 1.235            | 72.5        |
