@@ -87,7 +87,7 @@ O teste foi dividido em:
 
 ***Gráfico de Desempenho por Tarefa***
 ![WhatsApp Image 2025-09-29 at 10 58 18_99c462d0](https://github.com/user-attachments/assets/6e9d7865-e781-46a1-8c6b-a1392b746f89)
-- **Imagem 1**: Gráfico de barras mostrando o desempenho por tarefa, com percentuais de sucesso, sucesso com ajuda e falhas para cada tarefa de T1 a T12.
+- **Imagem 1**: Gráfico de barras mostrando o desempenho por tarefa, com percentuais de sucesso, sucesso com ajuda e falhas para cada tarefa de T1 a T12.     
   
 
 ***Gráfico de Métricas adicionadas por Tarefa***
