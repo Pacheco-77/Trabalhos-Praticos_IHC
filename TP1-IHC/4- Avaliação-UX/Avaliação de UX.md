@@ -15,6 +15,7 @@ O objetivo foi compreender a percepção subjetiva dos participantes sobre o sis
 - Participantes: os mesmos 8 usuários que participaram do teste de usabilidade.
 
 ## Gráficos 
+<img width="842" height="595" alt="calculo kpi" src="https://github.com/user-attachments/assets/e86f4de9-4942-4137-b519-bd332f5ccd92" />
 
 
 ## Benchmark
