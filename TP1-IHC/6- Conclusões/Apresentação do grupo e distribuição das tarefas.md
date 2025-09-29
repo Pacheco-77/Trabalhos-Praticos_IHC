@@ -21,7 +21,7 @@ Garantir transparência de contribuição, organização e esforço.
 - **T5**: (Terceira avaliação – UX)
 - **T6**: (Quarta Avaliação –Comunicabilidade (MAC))
 - **T7**: (Conclusões e reflexões sobre o aprendizado)
-
+- **T8**: (Criar slide)
 
 ## 6.1.4 Distribuição de Trabalho
 
@@ -34,7 +34,7 @@ Garantir transparência de contribuição, organização e esforço.
 | **T5**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A4,A3:5 | - |
 | **T6**       |  - |  - | -  | - | - | - | - | - | - | - | A2:1 | - | A2:1 | - | - | A2:1 | - | A2:1 | - | A1:3,A2:3 | A1:1,A2:6 | - |
 | **T7**       |  - |  - | -  | - | - | - | - | A3:2|A3:2 | - | A2:1 | - | - | - | - | - | A3:1 | - | - | - | - | A1:1,A2:1,A3:1,A4:1 |
- 
+| **T8**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1:4,A2:1,A3:1,A4:1 | A1:3,A2:2,A3:2,A4:2 |
 
 ✍️ **Legenda**:  
 - `A1:2` → Integrante A1 trabalhou 2h.  
