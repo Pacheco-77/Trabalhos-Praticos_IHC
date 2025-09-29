@@ -17,7 +17,7 @@ Local: Casa de um dos integrantes
 
 Formato: Presencial 
 
-Duração da sessão: 507,31 s
+Duração da sessão: 302s
 
 ### 1. Registro por tarefa e por participante
 
