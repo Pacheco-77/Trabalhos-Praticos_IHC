@@ -84,8 +84,15 @@ O teste foi dividido em:
 | T12      |            50   |                      37.5 |           12.5 |             69.00 |           1.38 |          0.63 |
 
 ## 3.5 Análise Quantitativa
-Img 1
-img 2
+
+Gráfico de Métricas adicionadas por Tarefa
+
+![WhatsApp Image 2025-09-29 at 10 58 18_c63de9ac](https://github.com/user-attachments/assets/c6284928-3390-40ad-b9ac-fe950b6cc80b)
+
+Gráfico de Desempenho por Tarefa
+
+![WhatsApp Image 2025-09-29 at 10 58 18_99c462d0](https://github.com/user-attachments/assets/6e9d7865-e781-46a1-8c6b-a1392b746f89)
+
 ### Taxa de sucesso
 A maioria das tarefas apresenta alto índice de sucesso especialmente T2, T3 e T10, que obtiveram 100% de conclusão sem ajuda.
 As tarefas mais críticas em termos de sucesso foram T12 (50%) e T4 (62,5%) mostrando maior dificuldade dos participantes.
