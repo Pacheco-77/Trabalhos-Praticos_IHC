@@ -19,17 +19,13 @@ Sistema Avaliado: Americanas.com
 
 # 📑 SUMÁRIO
 
-1. [Descrição do Sistema](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md)
+1. [Descrição do Sistema](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#1-descrição-do-sistema)  
+   1.1 [Objetivo do Sistema](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#11-objetivo-do-sistema)  
+   1.2 [Perfil dos Usuários](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#12-perfil-dos-usuários)  
+   &nbsp;&nbsp;&nbsp;1.2.1 [Quem são os usuários](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#121-quem-são-os-usuários)  
+   &nbsp;&nbsp;&nbsp;1.2.2 [Conhecimentos prévios e experiência](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#122-conhecimentos-prévios-e-experiência)  
+   &nbsp;&nbsp;&nbsp;1.2.3 [Tarefas-chave](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#123-tarefas-chave)  
 
-   1.1 [Objetivo do Sistema](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#11-objetivo-do-sistema)
-
-   1.2 [Perfil dos Usuários](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#12-perfil-dos-usuarios)
-
-     1.2.1 [Quem são os usuários](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#quem-sao-os-usuarios)
-
-     1.2.2 [Conhecimentos prévios e experiência](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#conhecimentos-previos-e-experiencia)
-
-     1.2.3 [Tarefas-chave](1-%20Descricao%20do%20Sistema/1-%20Descricao%20do%20Sistema.md#tarefas-chave)
 
     
 
