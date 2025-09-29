@@ -1,18 +1,19 @@
-# Comunicabilidade (MAC)
+# 5. Avaliação-Comunicabilidade
+## 5.1 Comunicabilidade (MAC)
 
 Nesta etapa, foi realizada a Avaliação de Comunicabilidade utilizando o método MAC (Método de Avaliação de Comunicabilidade).  
 O objetivo foi identificar como o sistema se comunica com o usuário durante a interação e observar rupturas de comunicação, ou seja, momentos em que o usuário não compreende as mensagens, sinais ou metáforas utilizadas pela interface.  
 
 
-##  Objetivos da Avaliação
+## 5.2  Objetivos da Avaliação
 - Investigar como o sistema transmite suas mensagens ao usuário.  
 - Detectar falhas de comunicação que prejudicam a interação.  
 - Categorizar as rupturas segundo o conjunto de etiquetas do MAC.  
 - Observar como diferentes perfis de usuários reagem às mesmas situações.  
 
-### As avaliações serão realizadas com as usuárias Vitoria Teixeira e Ray Guimarães  
+## 5.3 As avaliações serão realizadas com as usuárias Vitoria Teixeira e Ray Guimarães  
 
-## Etiquetagem (tagging) das rupturas de comunicação
+### 5.3.1 Etiquetagem (tagging) das rupturas de comunicação
 | Part. | Tarefa | Timestamp | Trecho observado                        | Etiqueta MAC     | Interpretação                                                                 |
 |-------|--------|-----------|-----------------------------------------|------------------|-------------------------------------------------------------------------------|
 | U1    | T2     | 00:55     | Apresentar os aparelhos                 | Cadê?            | Usuária espera ver o resultado da busca imediatamente, mas precisa procurar. |
@@ -57,7 +58,7 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 
 
 
-## Tabulação e interpretação dos resultados
+### 5.3.2 Tabulação e interpretação dos resultados
 | Etiqueta          | Ocorrências (U1) | Ocorrências (U2) | Total | Tarefas mais afetadas         |
 |-------------------|------------------|------------------|-------|-------------------------------|
 | Cadê?             | 2                | 4                | 6     | T2, T3, T4, T5, T9            |
@@ -75,6 +76,6 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 | Vai de outro jeito| 0                | 1                | 1     | T12                           |
 
 
-## Link do Vídeo no YouTube
+## 5.4 Link do Vídeo no YouTube
 https://youtu.be/h0Ymb5WImmA
 
