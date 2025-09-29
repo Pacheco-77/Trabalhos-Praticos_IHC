@@ -47,4 +47,4 @@ Duração da sessão: 302s
 ### 2. Resumo por participante
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
-| P08      | 12          | 12         | 0                   | 0        | 507,31            | 80       |
+| P08      | 12          | 12         | 0                   | 0        | 302            | 80       |
