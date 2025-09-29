@@ -18,6 +18,15 @@ Formato: Presencial
 
 Duração da sessão: 627,03 s
 
+### Respostas das Perguntas Abertas
+
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | Difícil, mas estava fácil de ver os produtos que a empresa ofertava. |
+| **2. O que mais dificultou o uso? Em que momento?** | Tinha funcionalidades que não funcionavam de acordo e eu não sabia se meu produto havia sido salvo ou adicionado ao carrinho, às vezes os produtos sumiam. Além disso, ao arrastar o mouse pelas opções do aplicativo, era difícil encontrar o que eu procurava. |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Colocaria opções de saída na tela de pagamento, mensagem de confirmação ao salvar/adicionar produto ao carrinho, criaria uma tela de cadastro mais clara e retiraria as diversas opções da navbar para deixar a interface menos poluída. |
+
+
 ### 1. Registro por tarefa e por participante
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                     |
 |----------|--------|-----------|--------------------|-------------------|----------|---------------------|---------------------------------|
