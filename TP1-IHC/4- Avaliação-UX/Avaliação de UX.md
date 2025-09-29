@@ -19,24 +19,28 @@ O objetivo foi compreender a percepção subjetiva dos participantes sobre o sis
 A imagem abaixo, mostra os resultados estatísticos de cada item (média, variância, desvio-padrão) e as médias consolidadas das seis escalas da UEQ.
 <img width="842" height="595" alt="results" src="https://github.com/user-attachments/assets/1d3d38f7-af7b-48cd-9d9b-01189297d97a" />
 
+### Intervalos de Confiança
+Já nesta imagem a formula calcula e exibe os intervalos de confiança para as médias das escalas, ajudando a avaliar a precisão estatística dos resultados.
+<img width="842" height="595" alt="intervalo de confianca" src="https://github.com/user-attachments/assets/28077211-b50d-46ea-917c-781fecac4bd3" />
+
 ### Distribution of Answers per Item
-Rescrição breve
+A imagem apresenta a distribuição de frequência das respostas para cada item, facilitando a visualização de como os participantes responderam.
 <img width="842" height="595" alt="distribuicoes escritas" src="https://github.com/user-attachments/assets/c899b328-4435-449a-ba07-e3cb2da8cf38" />
 
 ### Correlations of the items per scale and reliability coefficients 
-Rescrição breve
+Na imagem abaixo a tabela avalia a consistência interna das escalas, geralmente usando alfa de Cronbach, para verificar a confiabilidade do questionário.
 <img width="842" height="595" alt="escala de consistencia" src="https://github.com/user-attachments/assets/340a850d-40a4-483a-ab55-b78950b6d1e9" />
 
 ### Inconsistencies
-Rescrição breve
+Identifica respostas incoerentes ou padrões anômalos que podem indicar falta de atenção ou preenchimento incorreto do questionário.
 <img width="842" height="595" alt="inconsistencias" src="https://github.com/user-attachments/assets/7cd13754-fc7c-4b96-92d5-8da70a1edfc5" />
 
 ### Sample_Size
-Rescrição breve
+Aqui  a tabela alcula o tamanho da amostra e outras estatísticas descritivas, confirmando se o número de respondentes é adequado para análise.
 <img width="842" height="595" alt="Sample_Size" src="https://github.com/user-attachments/assets/b3d5a692-2560-48fa-81bc-ea872d51bed0" />
 
 ### Cálculo KPI
-Rescrição breve
+E por fim, na tabela abaixo a formula gera indicadores-chave de desempenho (KPIs) a partir das médias, para facilitar comparações futuras entre diferentes versões ou sistemas.
 <img width="842" height="595" alt="calculo kpi" src="https://github.com/user-attachments/assets/96a7b8e8-8c54-4505-9678-fe25c07cd660" />
 
 ## Benchmark
