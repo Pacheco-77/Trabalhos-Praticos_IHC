@@ -21,18 +21,18 @@ Duração da sessão: 686,1 s
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                 |
 |----------|--------|-----------|--------------------|-------------------|----------|---------------------|-----------------------------|
-| P04      | T1     | 45        | ✓                  | 1                 | 1        | 0                   | Não teve dificuldade        |
-| P04      | T2     | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
-| P04      | T3     | 120       | ✓                  | 4                 | 3        | 0                   | Realizou com dificuldades   |
-| P04      | T4     | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
-| P04      | T5     | 60        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
-| P04      | T6     | 90        | ✓                  | 4                 | 2        | 0                   | Realizou com dificuldades   |
-| P04      | T7     | 25        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
-| P04      | T8     | 16        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
-| P04      | T9     | 80        | ✓                  | 3                 | 2        | 0                   | Não precisou de ajuda       |
-| P04      | T10    | 10        | ✓                  | 1                 | 0        | 0                   | Não precisou de ajuda       |
-| P04      | T11    | 80        | ✓                  | 3                 | 2        | 0                   | Realizou com dificuldades   |
-| P04      | T12    | 40        | ✓                  | 1                 | 1        | 0                   | Não precisou de ajuda       |
+| P08      | T1     | 10        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T2     | 66        | ✓                  | 3                 | 1        | 0                   | Não teve dificuldade        |
+| P08      | T3     | 30        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T4     | 27        | ✓                  | 2                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T5     | 26        | ✓                  | 2                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T6     | 30        | ✓                  | 2                 | 1        | 0                   | Não teve dificuldade        |
+| P08      | T7     | 13        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T8     | 10        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T9     | 40        | ✓                  | 2                 | 1        | 0                   | Não precisou de ajuda       |
+| P08      | T10    | 5         | ✓                  | 1                 | 0        | 0                   | Não precisou de ajuda       |
+| P08      | T11    | 20        | ✓                  | 1                 | 0        | 0                   | Não teve dificuldade        |
+| P08      | T12    | 25        | ✓                  | 2                 | 0        | 0                   | Não teve dificuldade        |
 
 ### 2. Resumo por participante
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
