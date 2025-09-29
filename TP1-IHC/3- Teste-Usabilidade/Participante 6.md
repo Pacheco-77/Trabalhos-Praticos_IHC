@@ -5,6 +5,10 @@ Nome: Bruno Manoel
 
 Perfil: Usuário nível Intermediário. Já possui familiaridade com tecnologia mas não tem muito conhecimentos em compras em site de e-commerce. 
 
+<img width="480" height="450" alt="Part6" src="https://github.com/user-attachments/assets/242feee9-3102-4e21-b3c2-db60db3b2297" />
+
+
+
 ## Informações da Entrevista: 
 Data: 24/09/2025
 
