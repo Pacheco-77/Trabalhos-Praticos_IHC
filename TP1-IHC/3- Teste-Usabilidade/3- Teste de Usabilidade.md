@@ -67,7 +67,7 @@ O teste foi dividido em:
 #### Particiopante 7: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%207.md#2-resumo-por-participante)
 #### Particiopante 8: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%208.md#2-resumo-por-participante)
 
- ### 3.4 Consolidação por tarefa (todos os participantes)
+ ## 3.4 Consolidação por tarefa (todos os participantes)
 | Tarefa   |   Sucesso ✓ (%) |   Sucesso com ajuda ! (%) |   Falhas ✗ (%) |   Tempo médio (s) |   Erros médios |   Ajuda média |
 |:---------|----------------:|--------------------------:|---------------:|------------------:|---------------:|--------------:|
 | T1       |            87.5 |                      12.5 |            0   |             41.41 |           0.88 |          0.25 |
@@ -83,7 +83,7 @@ O teste foi dividido em:
 | T11      |            62.5 |                      25   |           12.5 |             58.04 |           1.38 |          0.38 |
 | T12      |            50   |                      37.5 |           12.5 |             69.00 |           1.38 |          0.63 |
 
-### 3.5 Análise Quantitativa
+## 3.5 Análise Quantitativa
 A análise dos dados mostra que, no geral, o desempenho nas tarefas foi positivo, embora algumas variações chamem atenção especialmente no tempo médio de execução, na taxa de sucesso e na quantidade de erros e pedidos de ajuda. Todas as tarefas tiveram pelo menos 50% de sucesso, o que já é um bom sinal. Algumas se destacaram, como T2, T3 e T10, que foram concluídas com 100% de acerto e sem necessidade de ajuda, mostrando que estão bem ajustadas.
 
 Por outro lado, tarefas como T4, T11 e T12 tiveram resultados mais modestos, com taxas de sucesso entre 50% e 62,5%. Além disso, apresentaram falhas e uma maior dependência de ajuda especialmente T12, onde 37,5% dos participantes precisaram de suporte. Isso indica que essas tarefas podem estar mais difíceis ou confusas.
@@ -94,7 +94,7 @@ Os pedidos de ajuda foram relativamente baixos, com o maior índice sendo 0,63 e
 
 Em resumo, tarefas como T7, T8 e T10, que foram rápidas e com poucos erros, demonstram boa usabilidade. Já T9, T11 e T12 parecem precisar de ajustes, seja no design ou na clareza das instruções, para reduzir os erros e tornar a experiência mais intuitiva.
 
-### 3.6 Análise SUS
+## 3.6 Análise SUS
 | ID   | TAREFAS | SUCESSO | SUCESSO COM AJUDA | FALHAS | TEMPO TOTAL (s) | SUS (0-100) |
 |:-----|:--------|:--------|:------------------|:-------|:----------------|:------------|
 | P01  | 12      | 5       | 3                 | 4      | 507,31          | 27,5        |
