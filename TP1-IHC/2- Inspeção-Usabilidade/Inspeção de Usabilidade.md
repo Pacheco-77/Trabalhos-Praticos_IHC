@@ -1,4 +1,4 @@
-# Inspeção de Usabilidade: 
+# 2. Inspeção de Usabilidade: 
 
 Nesta etapa, foi realizado a avaliação heurística do sistema com base nas 10 Heurísticas de Nielsen, buscando identificar problemas de usabilidade em diferentes fluxos de interação, esta etapa foi dividida em quarto partes:
 
