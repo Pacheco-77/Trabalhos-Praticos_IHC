@@ -17,6 +17,16 @@ Local: Laboratório da Ufam
 Formato: Presencial 
 
 Duração da sessão: 302,1 s
+
+
+### Respostas das Perguntas Abertas
+| Pergunta | Resposta |
+|----------|----------|
+| **1. O que você mais gostou? Por quê?** | Gostei mais do design do site |
+| **2. O que mais dificultou o uso? Em que momento?** | A parte mais dificultosa foi achar os filtros dos produtos, quando selecionei a categoria das geladeiras, por exemplo. |
+| **3. Se pudesse mudar uma coisa, o que mudaria?** | Só essa parte dos filtros, que deixaria mais evidente. |
+
+
 ### 1. Registro por tarefa e por participante
 
 | ID Part. | Tarefa | Tempo (s) | Resultado (✓/!/X) | Dificuldade (1-5) | N° erros | N° pedidos de ajuda | Observações                 |
