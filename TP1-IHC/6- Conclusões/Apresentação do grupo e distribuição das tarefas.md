@@ -18,7 +18,7 @@ Garantir transparência de contribuição, organização e esforço.
 - **T2**: (Criação dos Objetivo do sistema e perfil dos usuários)
 - **T3**: (Criar Repositório no Notion)
 - **T4**: (Realizar a avaliação do site da Americanas e inserir no Notion)
-- **T5**: ()
+- **T5**: (Organizar as etapas do trabalho no Notion)
 
 
 ## Distribuição de Trabalho
@@ -29,7 +29,7 @@ Garantir transparência de contribuição, organização e esforço.
 | **T2**       |  - |  - | -  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | A3:12 |  A2:14  |    |
 | **T3**       | A4:2 | - | - | - | - | - | - | - | - | A4:2 | - | - | - | - | - | - | - | - | - | - | - | - |
 | **T4**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1:2, A3:2 | A1:2, A3:2, A2:4 | A3:2 | - | - | - | - | - |
-| **T5**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| **T5**       | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A4,A3:4 | - | - | - | A4,A3:2 | A4:1 | - |
  
 
 ✍️ **Legenda**:  
