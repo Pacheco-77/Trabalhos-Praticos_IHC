@@ -5,6 +5,10 @@ Nome: Cintia Fontes
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerces 
 
+<img width="480" height="450" alt="Part2" src="https://github.com/user-attachments/assets/6c2d255c-5ca6-42bf-9a3a-97a274b679b6" />
+
+Foto do participante durante o teste
+
 ## Informações da Entrevista: 
 Data: 24/09/2025
 
