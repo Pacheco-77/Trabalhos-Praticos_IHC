@@ -49,23 +49,23 @@ O teste foi dividido em:
 
 ### 1. Registro por tarefa e por participante:
 #### Particiopante 1: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%201.md#1-registro-por-tarefa-e-por-participante)
-#### Particiopante 2: [ ]()
-#### Particiopante 3: [ ]()
-#### Particiopante 4: [ ]()
-#### Particiopante 5: [ ]()
-#### Particiopante 6: [ ]()
-#### Particiopante 7: [ ]()
-#### Particiopante 8: [ ]()
+#### Particiopante 2: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%202.md#1-registro-por-tarefa-e-por-participante)
+#### Particiopante 3: [LINK]()
+#### Particiopante 4: [LINK]()
+#### Particiopante 5: [LINK]()
+#### Particiopante 6: [LINK]()
+#### Particiopante 7: [LINK]()
+#### Particiopante 8: [LINK]()
 
  ### 2. Resumo por participante
- #### Particiopante 1: [ ]()
-#### Particiopante 2: [ ]()
-#### Particiopante 3: [ ]()
-#### Particiopante 4: [ ]()
-#### Particiopante 5: [ ]()
-#### Particiopante 6: [ ]()
-#### Particiopante 7: [ ]()
-#### Particiopante 8: [ ]()
+ #### Particiopante 1: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%201.md#2-resumo-por-participante)
+#### Particiopante 2: [LINK](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/3-%20Teste-Usabilidade/Participante%202.md#2-resumo-por-participante)
+#### Particiopante 3: [LINK]()
+#### Particiopante 4: [LINK]()
+#### Particiopante 5: [LINK]()
+#### Particiopante 6: [LINK]()
+#### Particiopante 7: [LINK]()
+#### Particiopante 8: [LINK]()
 
  ## 3. Consolidação por tarefa (todos os participantes)
 | Tarefa   |   Sucesso ✓ (%) |   Sucesso com ajuda ! (%) |   Falhas ✗ (%) |   Tempo médio (s) |   Erros médios |   Ajuda média |
