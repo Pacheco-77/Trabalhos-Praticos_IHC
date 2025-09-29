@@ -11,5 +11,8 @@ Lidar com a coleta e a consolidação de dados foi outro desafio, pois cada part
 
 
 ### Lições aprendidas - 
+A principal lição foi perceber a importância que a usabilidade e experiência do usuário precisa ser levada a sério no desenvolvimento de um sistemas, pois muitas das vezes, alguns detalhes que parecem pequenos para o desenvolvedor podem gerar grandes dificuldades para o usuário final. 
+
+Outra lição foi perceber que cada usuário tem percepções e opiniões muito diferentes sobre o mesmo sistema, detalhes que considerei um erro ou uma dificuldade outras pessoas já considerou como ponto forte, como o layout do site analisado, para mim, muitas informações como promoções, categorias, destaques, etc. em um só lugar deixa a página visualmente poluída, o fato de ter a presença da cor vermelha em mais ou menos 80% da Página Inicial deixa cansativo e confuso visualmente. No entanto, essa estética padrão foi o que mais chamou atenção para um dos participantes. 
 
 ### Como o TP contribuiu - 
