@@ -16,7 +16,7 @@ Local: Laboratório da Ufam
 
 Formato: Presencial 
 
-Duração da sessão: 550,05 s
+Duração da sessão: 550,5 s
 
 
 ## 1. Registro por tarefa e por participante
