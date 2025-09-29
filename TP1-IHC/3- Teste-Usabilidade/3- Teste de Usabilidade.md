@@ -85,26 +85,25 @@ O teste foi dividido em:
 
 ## 3.5 Análise Quantitativa
 ### Taxa de sucesso
-A maioria das tarefas apresenta alto índice de sucesso, especialmente T2, T3 e T10, que obtiveram 100% de conclusão sem ajuda.
-As tarefas mais críticas em termos de sucesso foram T12 (50%) e T4 (62,5%), mostrando maior dificuldade dos participantes.
+A maioria das tarefas apresenta alto índice de sucesso especialmente T2, T3 e T10, que obtiveram 100% de conclusão sem ajuda.
+As tarefas mais críticas em termos de sucesso foram T12 (50%) e T4 (62,5%) mostrando maior dificuldade dos participantes.
 
 ### Sucesso com ajuda
-Algumas tarefas exigiram bastante apoio, como T12 (37,5%) e T4 (37,5%), sugerindo que os usuários conseguiam realizá-las, mas apenas com suporte adicional.
-Em tarefas simples como T2, T3 e T10, não houve necessidade de ajuda.
+Algumas tarefas exigiram bastante apoio como T12 (37,5%) e T4 (37,5%) sugerindo que os usuários conseguiam realizá-las, mas apenas com suporte adicional.
+Em tarefas simples como T2, T3 e T10 não houve necessidade de ajuda.
 
 ### Falhas
 As falhas ocorreram em T6, T7, T11 e T12 (12,5% cada).
-Isso indica que, em alguns casos, mesmo com ajuda, parte dos participantes não conseguiu concluir a tarefa.
+Isso indica que em alguns casos mesmo com ajuda parte dos participantes não conseguiu concluir a tarefa.
 
 ### Tempo médio
 
-As tarefas mais rápidas foram T7 (18,75s) e T10 (20,38s), provavelmente por serem mais diretas.
-
-Já as mais demoradas foram T12 (69s) e T3 (67,88s), que coincidem com as de maior dificuldade.
+As tarefas mais rápidas foram T7 (18,75s) e T10 (20,38s) provavelmente por serem mais diretas.
+Já as mais demoradas foram T12 (69s) e T3 (67,88s) que coincidem com as de maior dificuldade.
 
 ### Erros médios
-Destacam-se T9 (2,0 erros), T11 (1,38) e T12 (1,38), o que reforça a ideia de maior complexidade ou problemas de usabilidade nessas tarefas.
-Nas tarefas de maior sucesso pleno (T2, T10), os erros médios foram praticamente nulos.
+Destacam-se T9 (2,0 erros), T11 (1,38) e T12 (1,38) o que reforça a ideia de maior complexidade ou problemas de usabilidade nessas tarefas.
+Nas tarefas de maior sucesso pleno (T2, T10) os erros médios foram praticamente nulos.
 
 ### Ajuda média
 As tarefas que demandaram mais apoio foram T12 (0,63) e T4 (0,50).
@@ -122,7 +121,7 @@ Isso mostra pontos críticos onde o sistema pode ser melhorado em termos de clar
 | P07  | 12      | 9       | 3                 | 0      | 529             | 75          |
 | P08  | 12      | 12      | 0                 | 0      | 302             | 80          |
 
-No presente estudo, a média do System Usability Scale (SUS) obtida entre os oito participantes foi de 60,0 pontos, valor que se enquadra na faixa considerada “Ok (aceitável)” segundo a escala de Bangor (2009). Esse resultado indica que, embora o sistema apresente um nível de usabilidade funcional, ainda existem aspectos que podem ser aprimorados para alcançar classificações mais elevadas, como “Bom” ou “Excelente”. Dessa forma, a pontuação sugere que o sistema atende parcialmente às expectativas dos usuários, mas exige ajustes para proporcionar uma experiência mais satisfatória e eficiente.
+No presente estudo a média do System Usability Scale (SUS) obtida entre os oito participantes foi de 60,0 pontos, valor que se enquadra na faixa considerada “Ok (aceitável)” segundo a escala de Bangor (2009). Esse resultado indica que, embora o sistema apresente um nível de usabilidade funcional, ainda existem aspectos que podem ser aprimorados para alcançar classificações mais elevadas, como “Bom” ou “Excelente”. Dessa forma, a pontuação sugere que o sistema atende parcialmente às expectativas dos usuários, mas exige ajustes para proporcionar uma experiência mais satisfatória e eficiente.
 
 
 
