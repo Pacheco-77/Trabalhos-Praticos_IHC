@@ -39,3 +39,12 @@ Duração da sessão: 342,06 s
 | ID Part. | Tarefas (n) | Sucesso ✓ | Sucesso com ajuda ! | Falhas X | Tempo total (s) | SUS (0-100) |
 |----------|-------------|-----------|---------------------|----------|-----------------|-------------|
 | P02      | 12          | 10         | 2                   | 0        | 342,6            | 75        |
+
+### Resposta das Perguntas Abertas
+
+| Pergunta | Resposta |
+|----------|----------|
+| 1. O que você mais gostou? Por quê? | O sistema é fácil de manusear e permite acessar as funcionalidades de forma rápida e intuitiva |
+| 2. O que mais dificultou o uso? Em que momento? | Não encontrei dificuldades durante o uso do sistema. |
+| 3. Se pudesse mudar uma coisa, o que mudaria? | Não vejo necessidade de mudanças; o sistema atende bem às expectativas |
+
