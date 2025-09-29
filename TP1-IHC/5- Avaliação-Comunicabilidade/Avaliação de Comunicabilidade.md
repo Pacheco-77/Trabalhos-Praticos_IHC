@@ -11,9 +11,25 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 - Categorizar as rupturas segundo o conjunto de etiquetas do MAC.  
 - Observar como diferentes perfis de usuários reagem às mesmas situações.  
 
-## 5.3 As avaliações serão realizadas com as usuárias U1-Vitoria Teixeira e U2-Ray Guimarães  
+## 5.3 As avaliações serão realizadas com as usuárias U1-Vitoria Teixeira e U2-Ray Guimarães 
+### 5.3.1 Roteiro de Tarefas
 
-### 5.3.1 Etiquetagem (tagging) das rupturas de comunicação
+1. Encontre o botão de **criar conta** e faça o **login**.  
+2. Localize um **Smartphone Samsung Galaxy A15** no site.  
+3. **Filtre os resultados** dos Smartphones pela faixa de preço **R$1.000 - R$2.500**.  
+4. Volte ao **menu principal**, encontre algum item e **adicione aos favoritos**.  
+5. Abra **dois modelos de celulares** e **compare as especificações**.  
+6. Escolha um celular e **adicione à cesta**.  
+7. **Aumente a quantidade** de produtos na cesta.  
+8. **Exclua um item** da cesta e verifique se ela foi atualizada.  
+9. Navegue até **Eletrodomésticos > Geladeiras** e selecione uma geladeira de até **R$3.000**.  
+10. **Simule o frete** para a geladeira adicionando um **CEP**.  
+11. Consulte as **avaliações de compradores** da geladeira selecionada.  
+12. **Simule uma compra**, mas não finalize.  
+13. **Desconecte a conta** do site.  
+
+
+### 5.3.2 Etiquetagem (tagging) das rupturas de comunicação
 | Part. | Tarefa | Timestamp | Trecho observado                        | Etiqueta MAC     | Interpretação                                                                 |
 |-------|--------|-----------|-----------------------------------------|------------------|-------------------------------------------------------------------------------|
 | U1    | T2     | 00:55     | Apresentar os aparelhos                 | Cadê?            | Usuária espera ver o resultado da busca imediatamente, mas precisa procurar. |
@@ -58,7 +74,7 @@ O objetivo foi identificar como o sistema se comunica com o usuário durante a i
 
 
 
-### 5.3.2 Tabulação e interpretação dos resultados
+### 5.3.3 Tabulação e interpretação dos resultados
 | Etiqueta          | Ocorrências (U1) | Ocorrências (U2) | Total | Tarefas mais afetadas         |
 |-------------------|------------------|------------------|-------|-------------------------------|
 | Cadê?             | 2                | 4                | 6     | T2, T3, T4, T5, T9            |
