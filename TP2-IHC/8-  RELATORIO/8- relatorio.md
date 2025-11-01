@@ -1,3 +1,4 @@
+# 8 Relatorio
 ## 8.1 Definição do problema (contexto, atributos, classe);
 ## 8.2 Regras usadas para gerar a classe-alvo;
 ## 8.3 Descrição da base sintética;
@@ -16,7 +17,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 4.1.2 🔧 Metodologia
+### 8.4.1.2 🔧 Metodologia
 
 - **Algoritmo utilizado**: ZeroR — um classificador de base que ignora os atributos e sempre prediz a classe mais frequente.  
 - **Modo de avaliação**: divisão estratificada de **66% para treino** e **34% para teste**.  
@@ -24,7 +25,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 4.1.3 🧠 Informações do Modelo
+### 8.4.1.3 🧠 Informações do Modelo
 
 | Item                  | Valor                         |
 |-----------------------|-------------------------------|
@@ -37,7 +38,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 4.1.4 🔍 Modelo Treinado
+### 8.4.1.4 🔍 Modelo Treinado
 
 | Descrição                     | Valor         |
 |------------------------------|---------------|
@@ -46,7 +47,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 4.1.5 🧪 Avaliação no Conjunto de Teste
+### 8.4.1.5 🧪 Avaliação no Conjunto de Teste
 
 | Métrica                        | Valor        |
 |--------------------------------|--------------|
@@ -61,7 +62,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 4.1.6 📊 Acurácia Detalhada por Classe
+### 8.4.1.6 📊 Acurácia Detalhada por Classe
 
 | Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | ROC Area | PRC Area |
 |--------|---------|---------|----------|--------|-----------|----------|----------|
@@ -72,7 +73,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 4.1.7 🔁 Matriz de Confusão
+### 8.4.1.7 🔁 Matriz de Confusão
 
 | Classe Verdadeira | alta | media | baixa |
 |-------------------|------|-------|-------|
@@ -80,5 +81,5 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 | media             | 0    | 20    | 0     |
 | baixa             | 0    | 26    | 0     |
 
-# 5. Resultados (tabelas, matrizes de confusão, prints de tela);
-# 6. Análise crítica dos resultados em relação ao domínio de IHC;.
+## 8.5 Resultados (tabelas, matrizes de confusão, prints de tela);
+## 8.6 Análise crítica dos resultados em relação ao domínio de IHC;.
