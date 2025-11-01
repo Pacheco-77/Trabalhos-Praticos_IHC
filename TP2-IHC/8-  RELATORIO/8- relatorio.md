@@ -4,7 +4,7 @@
 ## 8.3 Descrição da base sintética;
 ## 8.4 Descrição dos experimentos no Weka;
 ### 8.4.1 ZeroR
-### 8.4.1.1 🧪 Descrição do Experimento
+### 8.4.1.1 Descrição do Experimento
 
 Este experimento teve como objetivo avaliar a usabilidade da plataforma Americanas por meio de métricas de desempenho e satisfação dos usuários. Para isso, foi utilizado um conjunto de dados com **210 instâncias** e **6 atributos** relacionados à experiência de uso:
 
@@ -17,7 +17,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 8.4.1.2 🔧 Metodologia
+### 8.4.1.2 Metodologia
 
 - **Algoritmo utilizado**: ZeroR — um classificador de base que ignora os atributos e sempre prediz a classe mais frequente.  
 - **Modo de avaliação**: divisão estratificada de **66% para treino** e **34% para teste**.  
@@ -25,7 +25,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 8.4.1.3 🧠 Informações do Modelo
+### 8.4.1.3 Informações do Modelo
 
 | Item                  | Valor                         |
 |-----------------------|-------------------------------|
@@ -38,7 +38,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 8.4.1.4 🔍 Modelo Treinado
+### 8.4.1.4 Modelo Treinado
 
 | Descrição                     | Valor         |
 |------------------------------|---------------|
@@ -47,7 +47,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 8.4.1.5 🧪 Avaliação no Conjunto de Teste
+### 8.4.1.5 Avaliação no Conjunto de Teste
 
 | Métrica                        | Valor        |
 |--------------------------------|--------------|
@@ -62,7 +62,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 8.4.1.6 📊 Acurácia Detalhada por Classe
+### 8.4.1.6 Acurácia Detalhada por Classe
 
 | Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | ROC Area | PRC Area |
 |--------|---------|---------|----------|--------|-----------|----------|----------|
@@ -73,7 +73,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 8.4.1.7 🔁 Matriz de Confusão
+### 8.4.1.7 Matriz de Confusão
 
 | Classe Verdadeira | alta | media | baixa |
 |-------------------|------|-------|-------|
