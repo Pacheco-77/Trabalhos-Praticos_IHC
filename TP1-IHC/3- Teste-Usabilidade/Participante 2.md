@@ -1,7 +1,6 @@
 # Participante 2
 
 ## Informações do Participante:
-Nome: Eliana 
 
 Perfil: Usuário nível Intermediário. Já possui breve conhecimento com a tecnologia mas não possui muito conhecimento em compras em site de e-commerces.
 
