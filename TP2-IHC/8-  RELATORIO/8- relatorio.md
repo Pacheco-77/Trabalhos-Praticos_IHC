@@ -3,7 +3,28 @@
 # 3. Descrição da base sintética;
 # 4. Descrição dos experimentos no Weka;
 ## 4.1 ZeroR
-###  🧠 Informações do Modelo
+### 4.1.1 🧪 Descrição do Experimento
+
+Este experimento teve como objetivo avaliar a usabilidade da plataforma Americanas por meio de métricas de desempenho e satisfação dos usuários. Para isso, foi utilizado um conjunto de dados com **210 instâncias** e **6 atributos** relacionados à experiência de uso:
+
+- **tempo_tarefa**: duração para completar uma tarefa  
+- **numero_erros**: quantidade de erros cometidos  
+- **necessitou_ajuda**: se o usuário precisou de assistência  
+- **tempo_reacao**: tempo de resposta do sistema  
+- **navegacao_intuitiva**: percepção de facilidade na navegação  
+- **satisfacao**: nível de satisfação (classe alvo: alta, média, baixa)
+
+---
+
+### 4.1.2 🔧 Metodologia
+
+- **Algoritmo utilizado**: ZeroR — um classificador de base que ignora os atributos e sempre prediz a classe mais frequente.  
+- **Modo de avaliação**: divisão estratificada de **66% para treino** e **34% para teste**.  
+- **Classe majoritária**: `alta`, que foi usada como predição constante pelo ZeroR.
+
+---
+
+### 4.1.3 🧠 Informações do Modelo
 
 | Item                  | Valor                         |
 |-----------------------|-------------------------------|
@@ -16,7 +37,7 @@
 
 ---
 
-### 🔍 Modelo Treinado
+### 4.1.4 🔍 Modelo Treinado
 
 | Descrição                     | Valor         |
 |------------------------------|---------------|
