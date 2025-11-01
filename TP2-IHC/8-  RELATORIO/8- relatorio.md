@@ -2,7 +2,8 @@
 # 2. Regras usadas para gerar a classe-alvo;
 # 3. Descrição da base sintética;
 # 4. Descrição dos experimentos no Weka;
-# 🧠 Informações do Modelo
+## 4.1 ZeroR
+###  🧠 Informações do Modelo
 
 | Item                  | Valor                         |
 |-----------------------|-------------------------------|
@@ -15,7 +16,7 @@
 
 ---
 
-# 🔍 Modelo Treinado
+### 🔍 Modelo Treinado
 
 | Descrição                     | Valor         |
 |------------------------------|---------------|
@@ -24,7 +25,7 @@
 
 ---
 
-# 🧪 Avaliação no Conjunto de Teste
+### 🧪 Avaliação no Conjunto de Teste
 
 | Métrica                        | Valor        |
 |--------------------------------|--------------|
@@ -39,7 +40,7 @@
 
 ---
 
-# 📊 Acurácia Detalhada por Classe
+### 📊 Acurácia Detalhada por Classe
 
 | Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | ROC Area | PRC Area |
 |--------|---------|---------|----------|--------|-----------|----------|----------|
@@ -50,7 +51,7 @@
 
 ---
 
-# 🔁 Matriz de Confusão
+### 🔁 Matriz de Confusão
 
 | Classe Verdadeira | alta | media | baixa |
 |-------------------|------|-------|-------|
