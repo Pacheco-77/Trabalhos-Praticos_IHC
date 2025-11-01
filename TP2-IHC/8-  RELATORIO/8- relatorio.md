@@ -1,5 +1,5 @@
-# 8. Relatorio
-## 8.1 Definição do problema (contexto, atributos, classe);
+# 8. Relatório
+## 8.1 Definição do problema (contexto, atributos, classe):
 A usabilidade de interfaces digitais é um fator determinante para a inclusão e permanência de usuários em ambientes online. Quando uma interface é intuitiva e bem estruturada, a navegação em um site ou aplicativo torna-se uma experiência leve e satisfatória. Porém, para usuários com pouca familiaridade digital, até mesmo ações simples (como localizar um produto, reconhecer um botão ou compreender o caminho de navegação) podem representar verdadeiros desafios. Essas dificuldades não apenas comprometem a experiência do usuário, mas também restringem o acesso a serviços importantes, como realizar compras online, agendar atendimentos ou obter informações públicas.
 
 Partindo dessa perspectiva, o presente relatório tem como foco a aplicação de técnicas de classificação supervisionada para avaliar a usabilidade do site da Americanas entre pessoas com baixa familiaridade digital. Para isso, foi construída uma base de dados sintética, elaborada a partir de atributos que representam diferentes maneiras de interação com páginas da web.
@@ -27,8 +27,9 @@ A base de dados utilizada contém registros que representam o comportamento de u
 - **Valores possíveis**: `{alta, media, baixa}`  
 - **Distribuição**: Balanceada (~70 instâncias por classe)
 
-## 8.2 Regras usadas para gerar a classe-alvo;
-## 8.3 Descrição da base sintética;
+## 8.2 Regras usadas para gerar a classe-alvo:
+
+## 8.3 Descrição da base sintética:
 ### 8.3.1  Objetivo
 
 A base de dados `usabilidade_americanas` foi construída com o objetivo de avaliar a experiência de usuários durante a interação com a plataforma da Americanas, uma das maiores varejistas online do Brasil. O foco está em identificar padrões que influenciam a **satisfação do usuário** com base em métricas de desempenho, comportamento e percepção durante a navegação.
