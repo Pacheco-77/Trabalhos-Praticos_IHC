@@ -80,8 +80,33 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 | alta              | 0    | 25    | 0     |
 | media             | 0    | 20    | 0     |
 | baixa             | 0    | 26    | 0     |
+---
 
 ### 8.4.2 Modelo OneR
+#### 8.4.2.1 Descrição do Modelo OneR
+
+O modelo **OneR (One Rule)** é um algoritmo de classificação simples e interpretável que constrói regras baseadas em um único atributo. Ele seleciona o atributo que gera a menor taxa de erro e cria regras de decisão com base nos seus valores discretizados. Apesar de sua simplicidade, o OneR pode oferecer resultados surpreendentemente eficazes em conjuntos de dados bem estruturados.
+
+---
+
+### 🔧 Funcionamento no Experimento
+
+Neste experimento, o OneR escolheu o atributo **`tempo_reacao`** como base para a classificação. A partir dele, foram geradas 11 faixas de valores, cada uma associada a uma classe de satisfação (`alta`, `media`, `baixa`). Isso significa que o tempo de resposta do sistema foi considerado o melhor preditor da satisfação do usuário entre os atributos disponíveis.
+
+**Exemplo de regras geradas:**
+- Se `tempo_reacao < 3.05` → classe `alta`
+- Se `tempo_reacao >= 6.845` → classe `baixa`
+
+---
+
+### 📈 Desempenho
+
+O modelo apresentou um desempenho significativamente superior ao ZeroR:
+
+- **Acurácia**: 73.24% de classificações corretas no conjunto de teste  
+- **Kappa**: 0.5968, indicando boa concordância entre predição e realidade  
+- **F-Measure média**: 0.734, refletindo equilíbrio entre precisão e recall  
+- **Classes bem discriminadas**: especialmente a classe `baixa`, com 80.8% de acerto
 
 #### 8.4.2.1 Informações do Experimento
 
