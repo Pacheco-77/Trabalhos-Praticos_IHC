@@ -46,7 +46,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 🧪 Avaliação no Conjunto de Teste
+### 4.1.5 🧪 Avaliação no Conjunto de Teste
 
 | Métrica                        | Valor        |
 |--------------------------------|--------------|
@@ -61,7 +61,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 📊 Acurácia Detalhada por Classe
+### 4.1.6 📊 Acurácia Detalhada por Classe
 
 | Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | ROC Area | PRC Area |
 |--------|---------|---------|----------|--------|-----------|----------|----------|
@@ -72,7 +72,7 @@ Este experimento teve como objetivo avaliar a usabilidade da plataforma American
 
 ---
 
-### 🔁 Matriz de Confusão
+### 4.1.7 🔁 Matriz de Confusão
 
 | Classe Verdadeira | alta | media | baixa |
 |-------------------|------|-------|-------|
