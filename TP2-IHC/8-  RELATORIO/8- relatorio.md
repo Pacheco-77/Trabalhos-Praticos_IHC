@@ -260,11 +260,11 @@ O modelo atingiu **100% de acurácia** no conjunto de teste, classificando corre
 
 O **IBk** é a implementação do algoritmo **K-Nearest Neighbors (KNN)** no Weka. Neste experimento, foi utilizado com **K=1**, ou seja, a classificação de uma nova instância é baseada na classe do seu **vizinho mais próximo** no conjunto de treinamento, utilizando a **distância Euclidiana** como métrica de similaridade.
 
-### 🔧 Funcionamento no Experimento
+#### 8.4.4.2 Funcionamento no Experimento
 
 O modelo não realiza um treinamento tradicional, pois armazena todas as instâncias de treinamento e realiza a classificação no momento da predição, comparando a nova instância com as mais próximas. Isso o torna simples, porém eficaz em muitos contextos.
 
-#### 8.4.4.2  Desempenho
+#### 8.4.4.3 Desempenho
 
 O modelo apresentou um desempenho excelente:
 
@@ -272,7 +272,7 @@ O modelo apresentou um desempenho excelente:
 - **Kappa** de **0.9364**, indicando forte concordância entre as predições e os valores reais.
 - Todas as classes foram bem classificadas, com destaque para a classe `alta`, que teve **100% de acerto**.
 
-#### 8.4.4.3 Informações do Experimento
+#### 8.4.4.4 Informações do Experimento
 
 | Item                  | Valor                                                                 |
 |-----------------------|-----------------------------------------------------------------------|
@@ -286,7 +286,7 @@ O modelo apresentou um desempenho excelente:
 
 ---
 
-#### 8.4.4.4 Avaliação no Conjunto de Teste
+#### 8.4.4.5 Avaliação no Conjunto de Teste
 
 | Métrica                        | Valor        |
 |--------------------------------|--------------|
@@ -301,7 +301,7 @@ O modelo apresentou um desempenho excelente:
 
 ---
 
-#### 8.4.4.5 Acurácia Detalhada por Classe
+#### 8.4.4.6 Acurácia Detalhada por Classe
 
 | Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | MCC   | ROC Area | PRC Area |
 |--------|---------|---------|----------|--------|-----------|-------|----------|----------|
@@ -312,7 +312,7 @@ O modelo apresentou um desempenho excelente:
 
 ---
 
-#### 8.4.4.6 Matriz de Confusão
+#### 8.4.4.7 Matriz de Confusão
 
 | Classe Verdadeira | alta | media | baixa |
 |-------------------|------|-------|-------|
