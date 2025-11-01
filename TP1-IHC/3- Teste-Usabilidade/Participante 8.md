@@ -1,7 +1,6 @@
 # Participante 8
 
 ## Informações do Participante:
-Nome: Amanda Xavier
 
 Perfil: Usuário nível Inicial. Possui pouca familiaridade com tecnologia e não possui conhecimento com compras em site de e-commerce. 
 
