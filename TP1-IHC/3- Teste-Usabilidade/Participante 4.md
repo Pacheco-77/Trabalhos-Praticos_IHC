@@ -1,7 +1,6 @@
 # Participante 4
 
 ## Informações do Participante:
-Nome: Silvia
 
 Perfil: Usuário nível Intermediário. Já possui familiaridade com tecnologia mas não tem muito conhecimentos em compras em site de e-commerces 
 
