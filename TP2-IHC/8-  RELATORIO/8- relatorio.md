@@ -255,6 +255,75 @@ O modelo atingiu **100% de acurácia** no conjunto de teste, classificando corre
 
 ---
 
+### 8.4.4 Modelo IBk (KNN)
+#### 8.4.4.1 Descrição do Modelo IBk (KNN)
+
+O **IBk** é a implementação do algoritmo **K-Nearest Neighbors (KNN)** no Weka. Neste experimento, foi utilizado com **K=1**, ou seja, a classificação de uma nova instância é baseada na classe do seu **vizinho mais próximo** no conjunto de treinamento, utilizando a **distância Euclidiana** como métrica de similaridade.
+
+### 🔧 Funcionamento no Experimento
+
+O modelo não realiza um treinamento tradicional, pois armazena todas as instâncias de treinamento e realiza a classificação no momento da predição, comparando a nova instância com as mais próximas. Isso o torna simples, porém eficaz em muitos contextos.
+
+#### 8.4.4.2  Desempenho
+
+O modelo apresentou um desempenho excelente:
+
+- **Acurácia** de **95.77%**, com apenas 3 erros em 71 instâncias.
+- **Kappa** de **0.9364**, indicando forte concordância entre as predições e os valores reais.
+- Todas as classes foram bem classificadas, com destaque para a classe `alta`, que teve **100% de acerto**.
+
+#### 8.4.4.3 Informações do Experimento
+
+| Item                  | Valor                                                                 |
+|-----------------------|-----------------------------------------------------------------------|
+| Algoritmo             | IBk (K-Nearest Neighbors - K=1)                                       |
+| Parâmetros            | -K 1 -W 0 -A EuclideanDistance (first-last)                           |
+| Relação               | usabilidade_americanas                                                |
+| Instâncias            | 210                                                                   |
+| Atributos             | 6                                                                     |
+| Lista de Atributos    | tempo_tarefa, numero_erros, necessitou_ajuda, tempo_reacao, navegacao_intuitiva, satisfacao |
+| Modo de Teste         | 66% treino / 34% teste                                                |
+
+---
+
+#### 8.4.4.4 Avaliação no Conjunto de Teste
+
+| Métrica                        | Valor        |
+|--------------------------------|--------------|
+| Instâncias Corretas           | 68 (95.77%)  |
+| Instâncias Incorretas         | 3 (4.23%)    |
+| Estatística Kappa             | 0.9364       |
+| Erro Absoluto Médio           | 0.037        |
+| Raiz do Erro Quadrático Médio | 0.1664       |
+| Erro Absoluto Relativo        | 8.29%        |
+| Erro Quadrático Relativo      | 35.15%       |
+| Total de Instâncias Testadas  | 71           |
+
+---
+
+#### 8.4.4.5 Acurácia Detalhada por Classe
+
+| Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | MCC   | ROC Area | PRC Area |
+|--------|---------|---------|----------|--------|-----------|-------|----------|----------|
+| alta   | 1.000   | 0.022   | 0.962    | 1.000  | 0.980     | 0.970 | 0.989    | 0.962    |
+| media  | 0.950   | 0.039   | 0.905    | 0.950  | 0.927     | 0.898 | 0.955    | 0.874    |
+| baixa  | 0.923   | 0.000   | 1.000    | 0.923  | 0.960     | 0.940 | 0.962    | 0.951    |
+| **Média Ponderada** | 0.958 | 0.019   | 0.960    | 0.958  | 0.958     | 0.939 | 0.970    | 0.933    |
+
+---
+
+#### 8.4.4.6 Matriz de Confusão
+
+| Classe Verdadeira | alta | media | baixa |
+|-------------------|------|-------|-------|
+| alta              | 25   | 0     | 0     |
+| media             | 1    | 19    | 0     |
+| baixa             | 0    | 2     | 24    |
+
+---
+
+
+
 
 
 ## 8.5 Resultados (tabelas, matrizes de confusão, prints de tela);
