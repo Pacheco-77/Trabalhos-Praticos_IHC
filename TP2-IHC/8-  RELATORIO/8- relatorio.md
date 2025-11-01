@@ -322,9 +322,95 @@ O modelo apresentou um desempenho excelente:
 
 ---
 
+### 8.4.5 Modelo Naive Bayes
+#### 8.4.5.1 Descrição do Modelo Naive Bayes
 
+O **Naive Bayes** é um classificador probabilístico baseado no Teorema de Bayes, que assume independência entre os atributos. Apesar dessa simplificação, o modelo costuma apresentar bom desempenho em diversas tarefas de classificação.
 
+#### 8.4.5.2 Funcionamento no Experimento
 
+Neste experimento, o Naive Bayes utilizou as distribuições estatísticas dos atributos contínuos (como média e desvio padrão) e as frequências dos atributos categóricos para calcular a probabilidade de cada classe (`alta`, `media`, `baixa`) para cada instância.
+
+#### 8.4.5.3 Desempenho
+
+O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instâncias. A **estatística Kappa de 0.8734** indica forte concordância entre as predições e os valores reais. A classe `baixa` teve **precisão perfeita (1.000)**, enquanto as demais também foram bem classificadas.
+# 📊 Resultados do Modelo Naive Bayes
+
+## 🧠 Informações do Experimento
+
+| Item                  | Valor                         |
+|-----------------------|-------------------------------|
+| Algoritmo             | NaiveBayes                    |
+| Relação               | usabilidade_americanas        |
+| Instâncias            | 210                           |
+| Atributos             | 6                             |
+| Lista de Atributos    | tempo_tarefa, numero_erros, necessitou_ajuda, tempo_reacao, navegacao_intuitiva, satisfacao |
+| Modo de Teste         | 66% treino / 34% teste        |
+
+---
+
+## 📐 Estatísticas dos Atributos por Classe
+
+| Atributo            | Classe | Média    | Desvio Padrão | Peso | Precisão |
+|---------------------|--------|----------|----------------|------|----------|
+| tempo_tarefa        | alta   | 3.1138   | 1.216          | 70   | 0.1006   |
+|                     | media  | 6.6142   | 4.1622         | 70   | 0.1006   |
+|                     | baixa  | 12.2283  | 4.0685         | 70   | 0.1006   |
+| numero_erros        | alta   | 0.4      | 0.4899         | 70   | 1.0000   |
+|                     | media  | 2.1857   | 1.8539         | 70   | 1.0000   |
+|                     | baixa  | 5.6429   | 2.3545         | 70   | 1.0000   |
+| tempo_reacao        | alta   | 3.0747   | 1.1986         | 70   | 0.0470   |
+|                     | media  | 4.9521   | 1.0965         | 70   | 0.0470   |
+|                     | baixa  | 7.5579   | 1.3446         | 70   | 0.0470   |
+
+### Variáveis Categóricas
+
+| Atributo              | Classe | sim  | não  | Total |
+|-----------------------|--------|------|------|-------|
+| necessitou_ajuda      | alta   | 21.0 | 51.0 | 72.0  |
+|                       | media  | 35.0 | 37.0 | 72.0  |
+|                       | baixa  | 53.0 | 19.0 | 72.0  |
+| navegacao_intuitiva   | alta   | 65.0 | 7.0  | 72.0  |
+|                       | media  | 34.0 | 38.0 | 72.0  |
+|                       | baixa  | 16.0 | 56.0 | 72.0  |
+
+---
+
+## 🧪 Avaliação no Conjunto de Teste
+
+| Métrica                        | Valor        |
+|--------------------------------|--------------|
+| Instâncias Corretas           | 65 (91.55%)  |
+| Instâncias Incorretas         | 6 (8.45%)    |
+| Estatística Kappa             | 0.8734       |
+| Erro Absoluto Médio           | 0.0711       |
+| Raiz do Erro Quadrático Médio | 0.1865       |
+| Erro Absoluto Relativo        | 15.96%       |
+| Erro Quadrático Relativo      | 39.40%       |
+| Total de Instâncias Testadas  | 71           |
+
+---
+
+## 📈 Acurácia Detalhada por Classe
+
+| Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | MCC   | ROC Area | PRC Area |
+|--------|---------|---------|----------|--------|-----------|-------|----------|----------|
+| alta   | 0.960   | 0.022   | 0.960    | 0.960  | 0.960     | 0.938 | 0.998    | 0.997    |
+| media  | 0.950   | 0.098   | 0.792    | 0.950  | 0.864     | 0.810 | 0.986    | 0.971    |
+| baixa  | 0.846   | 0.000   | 1.000    | 0.846  | 0.917     | 0.882 | 0.997    | 0.996    |
+| **Média Ponderada** | 0.915 | 0.035   | 0.927    | 0.915  | 0.917     | 0.881 | 0.995    | 0.989    |
+
+---
+
+## 🔁 Matriz de Confusão
+
+| Classe Verdadeira | alta | media | baixa |
+|-------------------|------|-------|-------|
+| alta              | 24   | 1     | 0     |
+| media             | 1    | 19    | 0     |
+| baixa             | 0    | 4     | 22    |
+
+---
 
 ## 8.5 Resultados (tabelas, matrizes de confusão, prints de tela);
 ## 8.6 Análise crítica dos resultados em relação ao domínio de IHC;.
