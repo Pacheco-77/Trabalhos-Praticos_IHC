@@ -1,7 +1,6 @@
 # Participante 1
 
 ## Informações do Participante:
-Nome: Nelio Tobias 
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerces 
 
