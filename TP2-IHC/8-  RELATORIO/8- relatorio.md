@@ -1,5 +1,32 @@
 # 8. Relatorio
 ## 8.1 Definição do problema (contexto, atributos, classe);
+A presença e a permanência das pessoas em ambientes digitais estão intimamente relacionadas à facilidade com que conseguem utilizá-los. Quando uma interface é intuitiva e bem estruturada, a navegação em um site ou aplicativo torna-se uma experiência leve e satisfatória. Porém, para usuários com pouca familiaridade digital, até mesmo ações simples (como localizar um produto, reconhecer um botão ou compreender o caminho de navegação) podem representar verdadeiros desafios. Essas dificuldades não apenas comprometem a experiência do usuário, mas também restringem o acesso a serviços importantes, como realizar compras online, agendar atendimentos ou obter informações públicas.
+
+Partindo dessa perspectiva, o presente relatório tem como foco a aplicação de técnicas de classificação supervisionada para avaliar a usabilidade do site da Americanas entre pessoas com baixa familiaridade digital. Para isso, foi construída uma base de dados sintética, elaborada a partir de atributos que representam diferentes maneiras de interação com páginas da web.
+
+A principal motivação deste trabalho está em promover ambientes digitais mais acessíveis e acolhedores, especialmente para quem ainda enfrenta dificuldades com o uso da tecnologia. Diminuir barreiras de navegação, reduzir erros frequentes e evitar que o usuário desista de realizar tarefas são ações fundamentais para fortalecer a inclusão digital.
+
+Diante do crescimento constante do comércio eletrônico, compreender os padrões de dificuldade e transformá-los em melhorias práticas de design é uma estratégia de grande valor. Nesse contexto, foi criada uma base contendo 200 registros simulados, inspirados em atividades típicas de testes de usabilidade (como pesquisar um item ou adicioná-lo ao carrinho) reunindo tanto métricas objetivas quanto subjetivas.
+A base de dados utilizada contém registros que representam o comportamento de usuários durante a navegação em sites. Entre os atributos considerados estão:
+
+**Atributos Preditores**
+
+| **Atributo**            | **Tipo**      | **Descrição**                                                                 |
+|---------------------------|---------------|------------------------------------------------------------------------------|
+| `tempo_navegacao`        | Numérico      | Tempo total (em **minutos**) que o usuário permaneceu navegando no site.     |
+| `numero_cliques`         | Numérico      | Quantidade total de interações (cliques) realizadas durante a navegação.     |
+| `taxa_sucesso`           | Numérico      | Percentual de tarefas concluídas corretamente pelo usuário.                  |
+| `nivel_confusao`         | Nominal `{baixo, medio, alto}` | Grau de confusão relatado pelo usuário durante a navegação.       |
+| `familiaridade_digital`  | Nominal `{baixa, media, alta}` | Classificação do nível de experiência digital do usuário.         |
+| `numero_erros`           | Numérico      | Quantidade de erros cometidos (ex.: cliques errados, recarregamentos indevidos). |
+| `satisfacao_geral`       | Numérico (1–5) | Avaliação subjetiva da experiência geral com o site.                         |
+
+#### **Classe-Alvo**  
+- **Nome**: `satisfacao`  
+- **Tipo**: Nominal (multiclasse)  
+- **Valores possíveis**: `{alta, media, baixa}`  
+- **Distribuição**: Balanceada (~70 instâncias por classe)
+
 ## 8.2 Regras usadas para gerar a classe-alvo;
 ## 8.3 Descrição da base sintética;
 ### 8.3.1  Objetivo
