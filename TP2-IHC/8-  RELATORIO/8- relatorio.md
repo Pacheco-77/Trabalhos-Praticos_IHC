@@ -1,4 +1,4 @@
-# 8 Relatorio
+# 8. Relatorio
 ## 8.1 Definição do problema (contexto, atributos, classe);
 ## 8.2 Regras usadas para gerar a classe-alvo;
 ## 8.3 Descrição da base sintética;
