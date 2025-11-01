@@ -334,9 +334,9 @@ Neste experimento, o Naive Bayes utilizou as distribuições estatísticas dos a
 #### 8.4.5.3 Desempenho
 
 O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instâncias. A **estatística Kappa de 0.8734** indica forte concordância entre as predições e os valores reais. A classe `baixa` teve **precisão perfeita (1.000)**, enquanto as demais também foram bem classificadas.
-# 📊 Resultados do Modelo Naive Bayes
+---
 
-## 🧠 Informações do Experimento
+#### 8.4.5.4 Informações do Experimento
 
 | Item                  | Valor                         |
 |-----------------------|-------------------------------|
@@ -349,7 +349,7 @@ O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instância
 
 ---
 
-## 📐 Estatísticas dos Atributos por Classe
+#### 8.4.5.5 Estatísticas dos Atributos por Classe
 
 | Atributo            | Classe | Média    | Desvio Padrão | Peso | Precisão |
 |---------------------|--------|----------|----------------|------|----------|
@@ -363,7 +363,7 @@ O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instância
 |                     | media  | 4.9521   | 1.0965         | 70   | 0.0470   |
 |                     | baixa  | 7.5579   | 1.3446         | 70   | 0.0470   |
 
-### Variáveis Categóricas
+#### 8.4.5.6 Variáveis Categóricas
 
 | Atributo              | Classe | sim  | não  | Total |
 |-----------------------|--------|------|------|-------|
@@ -376,7 +376,7 @@ O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instância
 
 ---
 
-## 🧪 Avaliação no Conjunto de Teste
+#### 8.4.5.7 Avaliação no Conjunto de Teste
 
 | Métrica                        | Valor        |
 |--------------------------------|--------------|
@@ -391,7 +391,7 @@ O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instância
 
 ---
 
-## 📈 Acurácia Detalhada por Classe
+#### 8.4.5.8 Acurácia Detalhada por Classe
 
 | Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | MCC   | ROC Area | PRC Area |
 |--------|---------|---------|----------|--------|-----------|-------|----------|----------|
@@ -402,7 +402,7 @@ O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instância
 
 ---
 
-## 🔁 Matriz de Confusão
+#### 8.4.5.9 Matriz de Confusão
 
 | Classe Verdadeira | alta | media | baixa |
 |-------------------|------|-------|-------|
