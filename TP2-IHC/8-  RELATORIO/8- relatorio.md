@@ -2,6 +2,38 @@
 ## 8.1 Definição do problema (contexto, atributos, classe);
 ## 8.2 Regras usadas para gerar a classe-alvo;
 ## 8.3 Descrição da base sintética;
+### 8.3.1  Objetivo
+
+A base de dados `usabilidade_americanas` foi construída com o objetivo de avaliar a experiência de usuários durante a interação com a plataforma da Americanas, uma das maiores varejistas online do Brasil. O foco está em identificar padrões que influenciam a **satisfação do usuário** com base em métricas de desempenho, comportamento e percepção durante a navegação.
+
+---
+
+### 8.3.2 Estrutura da Base
+
+- **Total de instâncias**: 210  
+- **Total de atributos**: 6 (sendo 5 preditores e 1 classe alvo)
+
+| Atributo               | Tipo       | Descrição                                                                 |
+|------------------------|------------|---------------------------------------------------------------------------|
+| `tempo_tarefa`         | Numérico   | Tempo (em minutos) que o usuário levou para concluir uma tarefa          |
+| `numero_erros`         | Numérico   | Quantidade de erros cometidos durante a tarefa                           |
+| `necessitou_ajuda`     | Categórico (`sim`, `nao`) | Indica se o usuário precisou de ajuda para concluir a tarefa         |
+| `tempo_reacao`         | Numérico   | Tempo de resposta do sistema durante a interação                         |
+| `navegacao_intuitiva`  | Categórico (`sim`, `nao`) | Se o usuário considerou a navegação intuitiva                          |
+| `satisfacao`           | Categórico (`alta`, `media`, `baixa`) | **Classe alvo**: nível de satisfação do usuário com a experiência |
+
+---
+
+### 8.3.3 Distribuição da Classe `satisfacao`
+
+A variável alvo `satisfacao` é categórica e representa o nível de contentamento do usuário com a experiência na plataforma. As categorias são:
+
+- `alta`: Usuários altamente satisfeitos
+- `media`: Usuários moderadamente satisfeitos
+- `baixa`: Usuários insatisfeitos
+
+---
+
 ## 8.4 Descrição dos experimentos no Weka;
 ### 8.4.1 Modelo ZeroR
 #### 8.4.1.1 Descrição do Experimento
