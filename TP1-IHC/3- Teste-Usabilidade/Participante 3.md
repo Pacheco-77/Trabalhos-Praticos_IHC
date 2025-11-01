@@ -1,7 +1,6 @@
 # Participante 3
 
 ## Informações do Participante:
-Nome: Cintia Fontes 
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerces 
 
