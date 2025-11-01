@@ -1,7 +1,6 @@
 # Participante 7
 
 ## Informações do Participante:
-Nome: Valdecir Reis
 
 Perfil: Usuário nível Avançado. Já possui familiaridade com tecnologia e compras em site de e-commerce. 
 
