@@ -332,8 +332,8 @@ O **Naive Bayes** é um classificador probabilístico baseado no Teorema de Baye
 Neste experimento, o Naive Bayes utilizou as distribuições estatísticas dos atributos contínuos (como média e desvio padrão) e as frequências dos atributos categóricos para calcular a probabilidade de cada classe (`alta`, `media`, `baixa`) para cada instância.
 
 #### 8.4.5.3 Desempenho
-
 O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instâncias. A **estatística Kappa de 0.8734** indica forte concordância entre as predições e os valores reais. A classe `baixa` teve **precisão perfeita (1.000)**, enquanto as demais também foram bem classificadas.
+
 ---
 
 #### 8.4.5.4 Informações do Experimento
