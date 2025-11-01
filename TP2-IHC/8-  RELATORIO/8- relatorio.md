@@ -1,9 +1,9 @@
-# 1. Definição do problema (contexto, atributos, classe);
-# 2. Regras usadas para gerar a classe-alvo;
-# 3. Descrição da base sintética;
-# 4. Descrição dos experimentos no Weka;
-## 4.1 ZeroR
-### 4.1.1 🧪 Descrição do Experimento
+## 8.1 Definição do problema (contexto, atributos, classe);
+## 8.2 Regras usadas para gerar a classe-alvo;
+## 8.3 Descrição da base sintética;
+## 8.4 Descrição dos experimentos no Weka;
+### 8.4.1 ZeroR
+### 8.4.1.1 🧪 Descrição do Experimento
 
 Este experimento teve como objetivo avaliar a usabilidade da plataforma Americanas por meio de métricas de desempenho e satisfação dos usuários. Para isso, foi utilizado um conjunto de dados com **210 instâncias** e **6 atributos** relacionados à experiência de uso:
 
