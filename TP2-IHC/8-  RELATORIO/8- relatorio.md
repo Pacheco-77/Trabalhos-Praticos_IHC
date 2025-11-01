@@ -27,7 +27,31 @@ A base de dados utilizada contém registros que representam o comportamento de u
 - **Valores possíveis**: `{alta, media, baixa}`  
 - **Distribuição**: Balanceada (~70 instâncias por classe)
 
+---
+
 ## 8.2 Regras usadas para gerar a classe-alvo:
+
+A classe **“usabilidade percebida”** foi gerada a partir de um conjunto de regras lógicas e heurísticas descritas no prompt de criação da base de dados. Essas regras simulam o julgamento humano sobre a experiência de uso de um site, considerando a relação entre desempenho, erros e satisfação.
+As principais diretrizes aplicadas foram:
+
+
+**Alta Usabilidade:**
+
+Atribuída a casos em que o usuário apresenta alto nível de familiaridade digital, baixo número de erros, alta taxa de sucesso nas tarefas (acima de 80%) e satisfação geral superior a 4. O tempo de navegação tende a ser otimizado e o número de cliques é adequado à complexidade das tarefas.
+
+**Usabilidade Média:**
+
+Ocorre quando o usuário demonstra nível intermediário de familiaridade, taxa de sucesso moderada (entre 50% e 80%), e satisfação entre 3 e 4. Nesses casos, há algumas dificuldades pontuais, mas a interação geral ainda é considerada satisfatória
+
+**Baixa Usabilidade:**
+
+Definida para usuários com baixo nível de familiaridade digital, alto número de erros,  taxa de sucesso inferior a 50%, e satisfação igual ou inferior a 2. Frequentemente, o tempo de navegação é elevado devido à dificuldade em compreender a interface, e o número de cliques é desproporcional à tarefa pretendida.
+
+**Essas regras permitem representar de forma coerente a percepção de usabilidade, correlacionando fatores objetivos (como erros e tempo de navegação) e subjetivos (como satisfação e confusão percebida).**
+
+**A partir dessa base, foram aplicados algoritmos de aprendizado de máquina no Weka (*ZeroR*, *OneR*, *Naive Bayes*, *IBK* e *J48*)  para analisar o desempenho preditivo e identificar os atributos mais relevantes para a avaliação da usabilidade em contextos de baixa familiaridade digital.**
+
+---
 
 ## 8.3 Descrição da base sintética:
 ### 8.3.1  Objetivo
