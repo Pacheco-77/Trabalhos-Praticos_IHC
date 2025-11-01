@@ -175,6 +175,86 @@ O modelo apresentou um desempenho significativamente superior ao ZeroR:
 | alta              | 20   | 5     | 0     |
 | media             | 5    | 11    | 4     |
 | baixa             | 0    | 5     | 21    |
+---
+
+### 8.4.3 Modelo J48
+####  8.4.3.1 Descrição do Modelo J48
+
+O **J48** é uma implementação da árvore de decisão C4.5, amplamente utilizada por sua capacidade de gerar modelos interpretáveis e eficazes. Ele constrói uma árvore de decisão com base na divisão recursiva dos dados, escolhendo os atributos que melhor separam as classes com base no ganho de informação.
+
+#### 8.4.3.2 Funcionamento no Experimento
+
+Neste experimento, o J48 construiu uma árvore com base nos atributos `numero_erros` e `tempo_tarefa`. A árvore resultante é simples, com apenas 4 folhas, mas altamente eficaz. As regras de decisão mostram que a combinação entre o número de erros cometidos e o tempo gasto na tarefa é suficiente para prever com precisão o nível de satisfação do usuário.
+
+#### 8.4.3.3 Desempenho
+
+O modelo atingiu **100% de acurácia** no conjunto de teste, classificando corretamente todas as 71 instâncias. Além disso, todas as métricas de avaliação (precisão, recall, F-measure, MCC, ROC e PRC) atingiram o valor máximo de **1.000**, indicando um desempenho perfeito.
+
+#### 8.4.3.4  Informações do Experimento
+
+| Item                  | Valor                         |
+|-----------------------|-------------------------------|
+| Algoritmo             | J48 (árvore de decisão)       |
+| Parâmetros            | -C 0.25 -M 2                   |
+| Relação               | usabilidade_americanas        |
+| Instâncias            | 210                           |
+| Atributos             | 6                             |
+| Lista de Atributos    | tempo_tarefa, numero_erros, necessitou_ajuda, tempo_reacao, navegacao_intuitiva, satisfacao |
+| Modo de Teste         | 66% treino / 34% teste        |
+
+---
+
+#### 8.4.3.5 Estrutura da Árvore Gerada
+
+| Regra de Decisão                                 | Classe Predita |
+|--------------------------------------------------|----------------|
+| numero_erros ≤ 1 ∧ tempo_tarefa ≤ 4.94           | alta           |
+| numero_erros ≤ 1 ∧ tempo_tarefa > 4.94           | media          |
+| numero_erros > 1 ∧ tempo_tarefa ≤ 4.94           | media          |
+| numero_erros > 1 ∧ tempo_tarefa > 4.94           | baixa          |
+
+- **Número de folhas**: 4  
+- **Tamanho da árvore**: 7 nós  
+- **Tempo de construção**: 0.06 segundos
+
+---
+
+#### 8.4.3.6 Avaliação no Conjunto de Teste
+
+| Métrica                        | Valor     |
+|--------------------------------|-----------|
+| Instâncias Corretas           | 71 (100%) |
+| Instâncias Incorretas         | 0 (0%)    |
+| Estatística Kappa             | 1.0       |
+| Erro Absoluto Médio           | 0.0       |
+| Raiz do Erro Quadrático Médio | 0.0       |
+| Erro Absoluto Relativo        | 0%        |
+| Erro Quadrático Relativo      | 0%        |
+| Total de Instâncias Testadas  | 71        |
+
+---
+
+#### 8.4.3.7 Acurácia Detalhada por Classe
+
+| Classe | TP Rate | FP Rate | Precisão | Recall | F-Measure | MCC   | ROC Area | PRC Area |
+|--------|---------|---------|----------|--------|-----------|-------|----------|----------|
+| alta   | 1.000   | 0.000   | 1.000    | 1.000  | 1.000     | 1.000 | 1.000    | 1.000    |
+| media  | 1.000   | 0.000   | 1.000    | 1.000  | 1.000     | 1.000 | 1.000    | 1.000    |
+| baixa  | 1.000   | 0.000   | 1.000    | 1.000  | 1.000     | 1.000 | 1.000    | 1.000    |
+| **Média Ponderada** | 1.000 | 0.000   | 1.000    | 1.000  | 1.000     | 1.000 | 1.000    | 1.000    |
+
+---
+
+#### 8.4.3.8 Matriz de Confusão
+
+| Classe Verdadeira | alta | media | baixa |
+|-------------------|------|-------|-------|
+| alta              | 25   | 0     | 0     |
+| media             | 0    | 20    | 0     |
+| baixa             | 0    | 0     | 26    |
+
+---
+
 
 
 ## 8.5 Resultados (tabelas, matrizes de confusão, prints de tela);
