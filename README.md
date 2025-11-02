@@ -124,4 +124,14 @@ Sistema Avaliado: Americanas.com
            8.4.5.3 [Desempenho](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8453-desempenho)  
            8.4.5.4 [Informações do experimento](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8454-informações-do-experimento)  
            8.4.5.5 [Estatísticas dos atributos por classe](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8455-estatísticas-dos-atributos-por-classe)  
-           8.4.5.6 [Variáveis categóricas](link)
+           8.4.5.6 [Variáveis categóricas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8456-vari%C3%A1veis-categ%C3%B3ricas)  
+              8.4.5.7 [Avaliação no Conjunto de Teste](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8457-avaliação-no-conjunto-de-teste)  
+           8.4.5.8 [Acurácia Detalhada por Classe](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8458-acurácia-detalhada-por-classe)  
+           8.4.5.9 [Matriz de Confusão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#8459-matriz-de-confusão)  
+   8.5 [Resultados](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#85-resultados-tabelas-matrizes-de-confusão-prints-de-tela)  
+       8.5.1 [Tabelas de Métricas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#851-tabelas-de-métricas)  
+       8.5.2 [Matrizes de Confusão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#852-matrizes-de-confusão)  
+       8.5.3 [Prints de Tela](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#853-prints-de-tela)  
+   8.6 [Análise crítica dos resultados em relação ao domínio de IHC](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#86-análise-crítica-dos-resultados-em-relação-ao-domínio-de-ihc)
+
+   
