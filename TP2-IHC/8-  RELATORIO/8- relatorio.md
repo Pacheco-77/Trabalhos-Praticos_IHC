@@ -496,5 +496,72 @@ O modelo obteve uma **acurácia de 91.55%**, com apenas 6 erros em 71 instância
 
 ---
 
-## 8.5 Resultados (tabelas, matrizes de confusão, prints de tela);
+## 8.5 Resultados (tabelas, matrizes de confusão, prints de tela):
+
+---
+
+Os resultados a seguir foram extraídos e resumidos dos outputs dos classificadores executados no software Weka. Cada classificador foi avaliado em um split de 66% treino e 34% teste.
+
+### 8.5.1 Tabelas de Métricas
+
+As métricas principais incluem acurácia, Kappa, MAE e RMSE, derivadas diretamente das saídas do WEKA. Os dados foram inserido em uma tabela comparativa para facilitar a visualização.
+
+| Classificador | Acurácia (%) | Kappa  | MAE    | RMSE   | Instâncias Corretas (de 71) |
+|---------------|--------------|--------|--------|--------|-----------------------------|
+| J48          | 100.00      | 1.0000 | 0.0000 | 0.0000 | 71                         |
+| IBK (k=1)    | 95.77       | 0.9364 | 0.0370 | 0.1664 | 68                         |
+| NaiveBayes   | 91.55       | 0.8734 | 0.0711 | 0.1865 | 65                         |
+| OneR         | 73.24       | 0.5968 | 0.1784 | 0.4224 | 52                         |
+| ZeroR        | 28.17       | 0.0000 | 0.4458 | 0.4732 | 20                         |
+
+### 8.5.2 Matrizes de Confusão
+
+Cada matriz de confusão mostra a distribuição de classificações corretas e incorretas por classe (alta, media, baixa).  
+Foram extraídas diretamente dos outputs, onde 'a' = alta, 'b' = media, 'c' = baixa.  
+As matrizes revelam confusões principalmente entre media e baixa em modelos menos precisos.
+
+- **J48**:
+  
+  | a | b | c |  <-- classified as |
+  |---|---|---|--------------------|
+  |25 | 0 | 0 |  a = alta |
+  |0 | 20 | 0 |  b = media |
+  |0 | 0 | 26 |  c = baixa |
+
+- **IBK (k=1)**:
+  
+  | a | b | c |  <-- classified as |
+  |---|---|---|--------------------|
+  | 25 | 0 | 0 |  a = alta |
+  | 1 | 19 | 0 |  b = media |
+  | 0 | 2 | 24 |  c = baixa |
+  
+- **NaiveBayes**:
+  
+  | a | b | c |  <-- classified as |
+  |---|---|---|--------------------|
+  | 24 | 1 | 0 |  a = alta | 
+  | 1 | 19 | 0 |  b = media | 
+  | 0 | 4 | 22 |  c = baixa | 
+
+- **OneR**:
+  
+  | a | b | c |  <-- classified as |
+  |---|---|---|--------------------|
+  | 20 | 5 | 0 |  a = alta |
+  | 5 | 11 | 4 |  b = media |
+  | 0 | 5 | 21 |  c = baixa |
+
+- **ZeroR**:
+  
+  | a | b | c |  <-- classified as |
+  |---|---|---|--------------------|
+  | 0 | 25 | 0 | a = alta |
+  | 0 | 20 | 0 | b = media |
+  | 0 | 26 | 0 | c = baixa |
+  
+### 8.5.3 Prints de Tela
+
+
+
 ## 8.6 Análise crítica dos resultados em relação ao domínio de IHC;.
