@@ -562,6 +562,29 @@ As matrizes revelam confusões principalmente entre media e baixa em modelos men
   
 ### 8.5.3 Prints de Tela
 
+- Print Algoritmo ZeroR
+  
+  <img width="1044" height="1029" alt="image" src="https://github.com/user-attachments/assets/0c2c32a1-f2ed-42ac-9cfe-16f281b3755c" />
 
+- Print Algoritmo OneR
+
+  <img width="1017" height="1190" alt="image" src="https://github.com/user-attachments/assets/57a4304a-78e0-48f5-93e9-ab66a41da71b" />
+
+- Print Algoritmo J48
+
+  <img width="1043" height="1218" alt="image" src="https://github.com/user-attachments/assets/4449e0fc-0994-4df2-8e81-9434c7a369f2" />
+
+- Print Árvore de Classificação J48
+
+  <img width="1900" height="579" alt="image" src="https://github.com/user-attachments/assets/9d952cb3-258f-4de4-9c83-ca9999c52f54" />
+
+
+- Print Algoritmo NaiveBayes
+
+  <img width="991" height="1541" alt="image" src="https://github.com/user-attachments/assets/32aa4a1b-117d-4a47-9ff3-7e20748929a3" />
+
+- Print Algoritmo IBk
+  
+  <img width="971" height="1001" alt="image" src="https://github.com/user-attachments/assets/515dfb48-d09d-4536-902a-8b2e6af8aa56" />
 
 ## 8.6 Análise crítica dos resultados em relação ao domínio de IHC;.
