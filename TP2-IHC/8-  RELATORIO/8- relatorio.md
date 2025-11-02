@@ -592,7 +592,7 @@ As matrizes revelam confusões principalmente entre media e baixa em modelos men
 
 ---
 
-## 1. Contextualização dos Resultados
+## 8.6.1. Contextualização dos Resultados
 
 Os modelos foram treinados para prever o nível de **satisfação** (alta, média ou baixa) com base em variáveis como:
 
@@ -622,7 +622,7 @@ Variáveis como **facilidade de navegação** e **necessidade de ajuda** foram m
 
 ---
 
-## 2. Pontos Positivos
+## 8.6.2. Pontos Positivos
 
 ### Facilidade de Interpretação
 Modelos interpretáveis (como J48) mostram claramente como tempo e erros influenciam a satisfação, o que ajuda designers a identificar limites importantes para melhorias.
@@ -635,7 +635,7 @@ Os resultados apontam problemas típicos de quem tem pouca prática digital, ref
 
 ---
 
-## 3. Pontos Críticos e Limitações
+## 8.6.3. Pontos Críticos e Limitações
 
 ### Dados Sintéticos
 Os dados foram gerados artificialmente, sem todo o ruído humano (emoções, distrações, variações contextuais). Por isso, resultados ideais podem não se repetir em testes reais.
@@ -651,7 +651,7 @@ A boa performance numérica pode dar falsa sensação de solução completa. Em 
 
 ---
 
-## 4. Aplicações Práticas
+## 8.6.4. Aplicações Práticas
 
 ### Melhorias no Design
 - Priorizar redução de tempo e número de erros nas tarefas.  
