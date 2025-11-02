@@ -588,3 +588,89 @@ As matrizes revelam confusões principalmente entre media e baixa em modelos men
   <img width="971" height="1001" alt="image" src="https://github.com/user-attachments/assets/515dfb48-d09d-4536-902a-8b2e6af8aa56" />
 
 ## 8.6 Análise crítica dos resultados em relação ao domínio de IHC;.
+### Esta seção apresenta a análise crítica dos resultados obtidos com modelos de **aprendizado de máquina** aplicados a uma base de dados sintética sobre a **usabilidade do site da Americanas**, focada em **usuários com pouca experiência digital**. O objetivo é relacionar os achados ao campo de **Interação Humano-Computador (IHC)** e indicar pontos práticos para melhoria.
+
+---
+
+## 1. Contextualização dos Resultados
+
+Os modelos foram treinados para prever o nível de **satisfação** (alta, média ou baixa) com base em variáveis como:
+
+- `tempo_tarefa`  
+- `numero_erros`  
+- `necessitou_ajuda`  
+- `tempo_reacao`  
+- `navegacao_intuitiva`
+
+Essas variáveis representam medidas comuns em IHC:
+- **Eficiência**: tempo para completar uma tarefa.  
+- **Precisão**: número de erros cometidos.  
+- **Satisfação**: percepção do usuário sobre facilidade e conforto ao usar o site.
+
+### Eficiência e Precisão
+O modelo **J48** obteve alta acurácia no conjunto de teste, identificando regras do tipo:
+> "Satisfação alta quando número de erros < 2 e tempo de tarefa < 5 minutos."
+
+Isso indica que **reduzir erros e o tempo de execução** tende a aumentar a satisfação, especialmente entre usuários iniciantes.
+
+### Aspectos Subjetivos
+Variáveis como **facilidade de navegação** e **necessidade de ajuda** foram menos usadas pelos modelos. Em dados reais, esses fatores costumam mostrar emoções e frustrações que métricas puramente numéricas não revelam.
+
+### Comparação entre Modelos
+- Modelos como **IBK** e **NaiveBayes** tiveram bom desempenho, mas confundiram níveis “média” e “baixa”.  
+- Modelos simples (OneR, ZeroR) servem como base de comparação e mostram que **um único fator isolado não explica bem a experiência humana**.
+
+---
+
+## 2. Pontos Positivos
+
+### Facilidade de Interpretação
+Modelos interpretáveis (como J48) mostram claramente como tempo e erros influenciam a satisfação, o que ajuda designers a identificar limites importantes para melhorias.
+
+### Dados Balanceados
+A base usada tinha equilíbrio entre categorias, evitando que o modelo favorecesse um grupo específico e tornando os resultados mais justos.
+
+### Relevância para Usuários Iniciantes
+Os resultados apontam problemas típicos de quem tem pouca prática digital, reforçando a necessidade de interfaces simples e com feedback claro.
+
+---
+
+## 3. Pontos Críticos e Limitações
+
+### Dados Sintéticos
+Os dados foram gerados artificialmente, sem todo o ruído humano (emoções, distrações, variações contextuais). Por isso, resultados ideais podem não se repetir em testes reais.
+
+### Menos Valorização do Lado Humano
+Algumas variáveis importantes para medir aprendizado e memorização foram pouco consideradas. Modelos também podem não capturar como variáveis se influenciam mutuamente.
+
+### Baixa Generalização
+Um único conjunto de dados limita a capacidade de aplicar os resultados a outros públicos. A falta de informações sobre idade, escolaridade e contexto social reduz a validade para um público diverso.
+
+### Risco de Confiar Demais em Modelos
+A boa performance numérica pode dar falsa sensação de solução completa. Em IHC, sempre é preciso validar com observação direta e entrevistas com usuários.
+
+---
+
+## 4. Aplicações Práticas
+
+### Melhorias no Design
+- Priorizar redução de tempo e número de erros nas tarefas.  
+- Simplificar fluxos complexos e tornar ações mais óbvias.
+
+### Uso Complementar de Métodos
+- Integrar o uso de modelos com entrevistas, observação de uso e testes com usuários reais.  
+- Usar resultados do modelo para guiar onde focar estudos qualitativos.
+
+### Acessibilidade para Iniciantes
+- Criar tutoriais simples e orientações no próprio site.  
+- Usar linguagem clara e ícones autoexplicativos.  
+- Projetar telas com menos elementos e ações diretas.
+
+---
+
+## Conclusão
+
+Modelos de aprendizado de máquina, especialmente modelos interpretáveis, podem ajudar a identificar padrões objetivos relacionados à satisfação do usuário. No entanto, por se tratar de dados sintéticos e por conta da complexidade humana, é essencial combinar esses resultados com observações reais e métodos qualitativos. A recomendação é usar uma abordagem mista: **dados + contato direto com usuários**, alinhada às heurísticas de Nielsen, para projetar interfaces que realmente atendam às pessoas.
+
+
+
