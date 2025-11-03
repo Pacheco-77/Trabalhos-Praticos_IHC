@@ -77,7 +77,9 @@ Sistema Avaliado: Americanas.com
    6.5 [Conclusão Wamberson](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP1-IHC/6-%20Conclus%C3%B5es/Conclus%C3%A3o%20Wamberson.md#65-conclus%C3%A3o-wamberson-pacheco)   
  
  ## TP-II
- 7. [Base Sintética](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/tree/main/TP2-IHC/7-%20BASE_SINTETICA)
+7. [Base Sintética](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/tree/main/TP2-IHC/7-%20BASE_SINTETICA)  
+   7.1 [Análise Detalhada da Matriz de Dispersão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md)
+
 
 8. [Relatório](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md)  
    8.1 [Definição do problema](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#81-definição-do-problema-contexto-atributos-classe)  
