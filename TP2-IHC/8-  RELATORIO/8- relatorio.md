@@ -92,15 +92,6 @@ A variável alvo `satisfacao` é categórica e representa o nível de contentame
 - `baixa`: Usuários insatisfeitos
 
 ---
-## 8.4 Exploração e Classificação no Weka;
-
-### 8.4.1 Exploração dos dados (aba “Visualize”):
-
-![Modelo Visualize ](https://github.com/user-attachments/assets/425b51ce-6bf8-4c3a-a621-3874c3a3b58a)
-
-
-
----
 ## 8.4 Descrição dos experimentos no Weka;
 ### 8.4.1 Modelo ZeroR
 #### 8.4.1.1 Descrição do Experimento
