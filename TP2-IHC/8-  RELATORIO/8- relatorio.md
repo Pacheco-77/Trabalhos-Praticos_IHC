@@ -11,21 +11,28 @@ A base de dados utilizada contém registros que representam o comportamento de u
 
 **Atributos Preditores**
 
-| **Atributo**           | **Tipo**                          | **Descrição**                                                                 |
-|--------------------------|-----------------------------------|--------------------------------------------------------------------------------|
-| `tempo_tarefa`           | Numérico                          | Tempo total (em segundos) gasto pelo usuário para concluir a tarefa.           |
-| `numero_erros`           | Numérico                          | Quantidade de erros cometidos durante a execução da tarefa.                    |
-| `necessitou_ajuda`       | Nominal {sim, nao}                | Indica se o usuário precisou de ajuda para completar a tarefa.                 |
-| `tempo_reacao`           | Numérico                          | Tempo médio de resposta do usuário entre uma ação e outra durante a tarefa.    |
-| `navegacao_intuitiva`    | Nominal {sim, nao}                | Indica se o usuário percebeu a navegação como intuitiva e fácil de entender.   |
-| `satisfacao`             | Nominal {alta, media, baixa}      | Grau de satisfação geral do usuário com a experiência de uso.                  |
+Os atributos foram definidos com base em fatores diretamente relacionados à experiência de usabilidade de um sistema digital, buscando representar diferentes dimensões do comportamento e da percepção do usuário durante a interação.
+
+A ideia central foi selecionar variáveis que refletem desempenho, dificuldade e percepção subjetiva, permitindo uma análise mais completa da experiência do usuário. Estes atributos foram escolhidos por cobrirem aspectos objetivos (tempo, erros, reações) e subjetivos (percepção de intuitividade, necessidade de ajuda), que em conjunto formam uma visão ampla da experiência de uso.
+
+| **Atributo**           | **Justificativa de Inclusão**                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------|
+| `tempo_tarefa`           | Mede a eficiência do usuário. Tempos muito altos indicam dificuldades na execução da tarefa.  |
+| `numero_erros`           | Indica o grau de precisão e facilidade de uso da interface. Muitos erros sugerem problemas de usabilidade. |
+| `necessitou_ajuda`       | Representa o nível de autonomia do usuário — quanto mais ajuda for necessária, menor tende a ser a usabilidade percebida. |
+| `tempo_reacao`           | Avalia a fluidez e a rapidez nas respostas do usuário, refletindo sua familiaridade e conforto com o sistema. |
+| `navegacao_intuitiva`    | Reflete a percepção do usuário quanto à clareza da interface. Uma navegação intuitiva normalmente se associa a maior satisfação. |
+
 
 
 #### **Classe-Alvo**  
-- **Nome**: `satisfacao`  
-- **Tipo**: Nominal (multiclasse)  
-- **Valores possíveis**: `{alta, media, baixa}`  
-- **Distribuição**: Balanceada (~70 instâncias por classe)
+
+A escolha dessa variável como classe-alvo permite desenvolver modelos de predição de satisfação, ou seja, compreender e prever como características do uso (tempo, erros, ajuda etc.) impactam a satisfação do usuário. Além disso, a classe foi definida como nominal e balanceada (alta, média, baixa), para favorecer o uso em modelos de classificação supervisionada, garantindo uma análise equilibrada entre as categorias.
+
+| **Classe**      | **Motivo da Escolha**                                                                 |
+|------------------|----------------------------------------------------------------------------------------|
+| `satisfacao`     | Foi escolhida como variável dependente por representar o resultado final da experiência do usuário. A satisfação resume a percepção geral sobre o sistema e é influenciada diretamente pelos demais atributos. |
+
 
 ---
 
