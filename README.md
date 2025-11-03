@@ -78,7 +78,15 @@ Sistema Avaliado: Americanas.com
  
  ## TP-II
 7. [Base Sintética](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/tree/main/TP2-IHC/7-%20BASE_SINTETICA)  
-   7.1 [Análise Detalhada da Matriz de Dispersão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md)
+   7.1 [Análise Detalhada da Matriz de Dispersão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md)  
+       7.1.1 [Descrição Geral](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#711-descrição-geral)  
+       7.1.2 [Variáveis do Conjunto](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#712-variáveis-do-conjunto)  
+       7.1.3 [Correlações Fortes](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#713-correlações-fortes)  
+       7.1.4 [Relações com Satisfação](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#714-relações-com-satisfação)  
+       7.1.5 [Relações com Necessidade de Ajuda](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#715-relações-com-necessidade-de-ajuda)  
+       7.1.6 [Tabela de Correlação Visual](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#716-tabela-de-correlação-visual)  
+       7.1.7 [Conclusão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/7-%20BASE_SINTETICA/7.1-%20An%C3%A1lise%20Detalhada%20da%20Matriz%20de%20Dispers%C3%A3o.md#717-conclusão)  
+
 
 
 8. [Relatório](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md)  
