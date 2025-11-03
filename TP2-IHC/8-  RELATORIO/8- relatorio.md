@@ -602,7 +602,6 @@ As matrizes revelam confusões principalmente entre media e baixa em modelos men
   
   <img width="971" height="1001" alt="image" src="https://github.com/user-attachments/assets/515dfb48-d09d-4536-902a-8b2e6af8aa56" />
 
-  # Print ANA PAULAAAAAAAA
 
 ## 8.6 Análise crítica dos resultados em relação ao domínio de IHC;.
 ### Esta seção apresenta a análise crítica dos resultados obtidos com modelos de **aprendizado de máquina** aplicados a uma base de dados sintética sobre a **usabilidade do site da Americanas**, focada em **usuários com pouca experiência digital**. O objetivo é relacionar os achados ao campo de **Interação Humano-Computador (IHC)** e indicar pontos práticos para melhoria.
