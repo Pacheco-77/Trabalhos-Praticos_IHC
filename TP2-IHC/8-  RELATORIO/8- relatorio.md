@@ -11,15 +11,15 @@ A base de dados utilizada contém registros que representam o comportamento de u
 
 **Atributos Preditores**
 
-| **Atributo**            | **Tipo**      | **Descrição**                                                                 |
-|---------------------------|---------------|------------------------------------------------------------------------------|
-| `tempo_navegacao`        | Numérico      | Tempo total (em **minutos**) que o usuário permaneceu navegando no site.     |
-| `numero_cliques`         | Numérico      | Quantidade total de interações (cliques) realizadas durante a navegação.     |
-| `taxa_sucesso`           | Numérico      | Percentual de tarefas concluídas corretamente pelo usuário.                  |
-| `nivel_confusao`         | Nominal `{baixo, medio, alto}` | Grau de confusão relatado pelo usuário durante a navegação.       |
-| `familiaridade_digital`  | Nominal `{baixa, media, alta}` | Classificação do nível de experiência digital do usuário.         |
-| `numero_erros`           | Numérico      | Quantidade de erros cometidos (ex.: cliques errados, recarregamentos indevidos). |
-| `satisfacao_geral`       | Numérico (1–5) | Avaliação subjetiva da experiência geral com o site.                         |
+| **Atributo**           | **Tipo**                          | **Descrição**                                                                 |
+|--------------------------|-----------------------------------|--------------------------------------------------------------------------------|
+| `tempo_tarefa`           | Numérico                          | Tempo total (em segundos) gasto pelo usuário para concluir a tarefa.           |
+| `numero_erros`           | Numérico                          | Quantidade de erros cometidos durante a execução da tarefa.                    |
+| `necessitou_ajuda`       | Nominal {sim, nao}                | Indica se o usuário precisou de ajuda para completar a tarefa.                 |
+| `tempo_reacao`           | Numérico                          | Tempo médio de resposta do usuário entre uma ação e outra durante a tarefa.    |
+| `navegacao_intuitiva`    | Nominal {sim, nao}                | Indica se o usuário percebeu a navegação como intuitiva e fácil de entender.   |
+| `satisfacao`             | Nominal {alta, media, baixa}      | Grau de satisfação geral do usuário com a experiência de uso.                  |
+
 
 #### **Classe-Alvo**  
 - **Nome**: `satisfacao`  
