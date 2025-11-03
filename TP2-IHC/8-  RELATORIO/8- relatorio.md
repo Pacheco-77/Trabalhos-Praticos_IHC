@@ -96,7 +96,8 @@ A variável alvo `satisfacao` é categórica e representa o nível de contentame
 
 ### 8.4.1 Exploração dos dados (aba “Visualize”):
 
-![WhatsApp Image 2025-11-03 at 10 52 17_4620f716](https://github.com/user-attachments/assets/37918f9d-0a4a-4e90-8913-0c4db85f96d9)
+![Modelo Visualize ](https://github.com/user-attachments/assets/425b51ce-6bf8-4c3a-a621-3874c3a3b58a)
+
 
 
 ---
