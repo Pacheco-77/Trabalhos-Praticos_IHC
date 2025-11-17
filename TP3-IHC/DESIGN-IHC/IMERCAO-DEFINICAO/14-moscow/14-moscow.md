@@ -1,6 +1,8 @@
 # 14. Moscow
 
 ## 14.1 MoSCoW – Priorização de Requisitos do Aplicativo de Lembrete de Medicamentos
+<img width="823" height="450" alt="image" src="https://github.com/user-attachments/assets/6d44c3b2-66b2-4ec5-9eea-8d5eedf49ca1" />
+
 
 ### 14.1.1 🟩 MUST HAVE (Obrigatórios)
 Funcionalidades essenciais para que o app cumpra seu objetivo.
@@ -10,7 +12,7 @@ Funcionalidades essenciais para que o app cumpra seu objetivo.
 | M1 | Cadastro de medicamentos (nome, dosagem, horários, frequência) | Núcleo do app; sem isso não há lembretes. |
 | M2 | Notificações push exatas no horário | Resolve o principal problema: esquecimento. |
 | M3 | Alerta impossível de ignorar (som + vibração + tela) | Idosos frequentemente não percebem alertas fracos. |
-| M4 | Interface extremamente simples com letras ≥ 24pt | Necessidades de visão reduzida (Sebastião e João). |
+| M4 | Interface simples com letras ≥ 24pt | Necessidades de visão reduzida (Sebastião e João). |
 | M5 | Funcionamento 100% offline após cadastro | Idosos podem ficar sem internet. |
 | M6 | Botão/ação para confirmar dose (“Tomei”) | Evita doses duplicadas e permite acompanhamento. |
 | M7 | Cadastro configurável por cuidadores | Persona Maria representa esse uso real. |
@@ -53,7 +55,7 @@ Fora do escopo da primeira versão.
 | W2 | Limites dinâmicos baseados em análise médica | Exige validação profissional. |
 | W3 | Cadastro por reconhecimento de voz | Aumenta complexidade do protótipo. |
 | W4 | Relatórios clínicos avançados para hospitais | Fugiria do foco simples do app. |
-| W5 | Lembretes ativados por geolocalização | Inadequado ao público e consome bateria. |
+| W5 | geolocalização | consome bateria. |
 
 ### 14.1.5 Resumo Geral do MoSCoW
 
