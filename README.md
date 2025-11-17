@@ -160,11 +160,32 @@ Sistema Avaliado: Americanas.com
 
 10. [Matriz CSD](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/10-matriz-csd)  
 
-11. [Benchmarking](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking)  
+11. [Benchmarking](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking/11-benchmarking.md)  
+   11.1 [Avaliação dos itens a serem comparados](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking/11-benchmarking.md#111-avaliação-dos-itens-a-serem-comparados)  
+   11.2 [Definição dos similares-alvo](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking/11-benchmarking.md#112-definição-dos-similares-alvo)  
+   11.3 [Estabelecimento de indicadores e obtenção de dados](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking/11-benchmarking.md#113-estabelecimento-de-indicadores-e-obtenção-de-dados)  
+   11.4 [Comparação das Informações Coletadas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking/11-benchmarking.md#114-comparação-das-informações-coletadas)  
+   11.5 [Resultados Estratégicos](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking/11-benchmarking.md#115-resultados-estratégicos)  
 
-12. [Personas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas)  
+12. [Personas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas/12-personas.md)  
+   12.1 [Definição das Personas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas/12-personas.md#121-definição-das-personas)  
+       12.1.1 [Persona 1](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas/12-personas.md#1211-persona-1)  
+       12.1.2 [Persona 2](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas/12-personas.md#1212-persona-2)  
+       12.1.3 [Persona 3](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas/12-personas.md#1213-persona-3)  
 
-13. [Jornada do Usuário](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/13-jornada-do-usuario)  
 
-14. [Método MoSCoW](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow)  
+13. [Jornada do Usuário](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/13-jornada-do-usuario/13-jornada-do-usuario.md)  
+   13.1 [Jornada do Usuário da Persona 1 - Sebastião Alencar](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/13-jornada-do-usuario/13-jornada-do-usuario.md#131-jornada-do-usuário-da-persona-1---sebastião-alencar)  
+   13.2 [Jornada do Usuário da Persona 2 - Maria Oliveira](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/13-jornada-do-usuario/13-jornada-do-usuario.md#132-jornada-do-usuário-da-persona-2---maria-oliveira)  
+   13.3 [Jornada do Usuário da Persona 3 - João Batista](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/13-jornada-do-usuario/13-jornada-do-usuario.md#133-jornada-do-usuário-da-persona-3---joão-batista)  
+
+
+14. [Método MoSCoW](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md)  
+   14.1 [MoSCoW – Priorização de Requisitos do Aplicativo de Lembrete de Medicamentos](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md#141-moscow--priorização-de-requisitos-do-aplicativo-de-lembrete-de-medicamentos)  
+       14.1.1 [MUST HAVE (Obrigatórios)](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md#1411-must-have-obrigatórios)  
+       14.1.2 [SHOULD HAVE (Importantes)](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md#1412-should-have-importantes)  
+       14.1.3 [COULD HAVE (Desejáveis)](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md#1413-could-have-desejáveis)  
+       14.1.4 [WON’T HAVE (Não será feito agora)](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md#1414-wont-have-não-será-feito-agora)  
+       14.1.5 [Resumo Geral do MoSCoW](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow/14-moscow.md#1415-resumo-geral-do-moscow)  
+ 
 
