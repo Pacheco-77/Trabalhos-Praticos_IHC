@@ -144,4 +144,27 @@ Sistema Avaliado: Americanas.com
        8.5.3 [Prints de Tela](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#853-prints-de-tela)  
    8.6 [Análise crítica dos resultados em relação ao domínio de IHC](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#86-análise-crítica-dos-resultados-em-relação-ao-domínio-de-ihc)
 
-   
+   ## TP3
+   ## TP-III
+
+9. [Briefing com o Cliente](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md)  
+   9.1 [Funcionalidade esperada](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#91-funcionalidade-esperada)  
+   9.2 [Para quem](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#92-para-quem)  
+   9.3 [Cenário](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#93-cenário)  
+   9.4 [Problemas a resolver](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#94-problemas-a-resolver)  
+   9.5 [Prioridades](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#95-prioridades)  
+   9.6 [Fontes de informação](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#96-fontes-de-informação)  
+   9.7 [Integrações possíveis](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#97-integrações-possíveis)  
+   9.8 [Padrão prévio](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#98-padrão-prévio)  
+   9.9 [Contato técnico](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md#99-contato-técnico)  
+
+10. [Matriz CSD](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/10-matriz-csd)  
+
+11. [Benchmarking](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/11-benchmarking)  
+
+12. [Personas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/12-personas)  
+
+13. [Jornada do Usuário](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/13-jornada-do-usuario)  
+
+14. [Método MoSCoW](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/14-moscow)  
+
