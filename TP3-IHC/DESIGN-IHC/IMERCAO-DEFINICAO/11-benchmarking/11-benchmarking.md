@@ -7,6 +7,8 @@ Este benchmarking segue o cenário do aplicativo em questão. O foco é em um Ap
 - Experiência do Usuário (Idoso/Cuidador): Modo cuidador, relatórios, integração familiar.  
 - Offline: Funcionamento sem internet.
 
+---
+
 # b) Definição dos similares-alvo
 
 Selecionamos apps com foco em idosos, baseados em popularidade e reviews. Exemplos:
@@ -27,6 +29,8 @@ Selecionamos apps com foco em idosos, baseados em popularidade e reviews. Exempl
   
 - <img width="1568" height="654" alt="image" src="https://github.com/user-attachments/assets/862f3d4d-7127-4537-baf0-94a451624419" />
 
+---
+
 # c) Estabelecimento de indicadores e obtenção de dados
 
 Para cada app, respondemos: 
@@ -44,5 +48,26 @@ Na tabela abaixo, é mostrado como ficou feita a divisão das respostas com base
 | CareZone | Organização de múltiplos remédios; agendamentos médicos; reações a doses. | Scan de rótulos para cadastro rápido; notas sobre sintomas; compartilhamento familiar. | Fácil para cuidadores (desktop + mobile); trackers de sintomas; HIPAA-compliant. | Dependente de internet para sync; interface não otimizada para fontes gigantes; sem voz. |
 | DoseMed | Rotinas personalizadas; interações com comida/álcool; suporte para pets/família. | IA para lembretes adaptáveis; alertas de interações; histórico simples. | Interface minimalista (1-2 toques); AI para idosos (voz personalizada); offline parcial. | Novo (menos reviews); premium para IA full; foco em customização pode confundir iniciantes. |
 
+---
 
+# d) Comparação das Informações Coletadas
 
+Matriz comparativa consolidada, destacando se cada similar atende () ou não () aos requisitos IHC do LembreMed (baseados em certezas/suposições da Matriz CSD). Escala: Verde = atende bem; Amarelo = parcial; Vermelho = não atende.  
+
+| Similar | Funcionalidades | Acessibilidade | Layout/UX | Experiência Usuário | Offline | **Score IHC (1-5)** |
+|---------|-----------------|----------------|-----------|----------------------|---------|---------------------|
+| **Medisafe** | ✅ | 🟡 | 🟡 | ✅ | ❌ | 4.0 |
+| **MyTherapy** | ✅ | 🟡 | ❌ | 🟡 | ❌ | 3.0 |
+| **CareZone** | ✅ | 🟡 | ✅ | ✅ | ❌ | 4.0 |
+| **DoseMed** | ✅ | ✅ | ✅ | ✅ | 🟡 | **4.5** |
+
+> **Legenda:** ✅ Atende | 🟡 Parcial | ❌ Não atende
+
+---
+
+## Resultados Estratégicos
+
+- **Nenhum app é 100% offline** → Oportunidade crítica para o nosso App.  
+- **DoseMed é o mais próximo** em simplicidade, mas falta WhatsApp e botão gigante.  
+- **75% exigem internet** → Problema para idosos rurais (IBGE 2023).  
+- **Acessibilidade parcial**: Apenas **25% com TTS nativo**.  
