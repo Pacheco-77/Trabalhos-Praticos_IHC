@@ -1,4 +1,4 @@
-## 10.1 Avaliação dos itens a serem comparados
+## 11.1 Avaliação dos itens a serem comparados
 Este benchmarking segue o cenário do aplicativo em questão. O foco é em um App mobile semelhante para lembretes de medicamentos, priorizando usabilidade para idosos e cuidadores.  Incluindo reviews de acessibilidade, funcionalidades e problemas resolvidos. Selecionamos 4 apps principais: Medisafe, MyTherapy, CareZone e DoseMed.  Os itens comparados foram definidos com base nas prioridades do projeto:  
 
 - Funcionalidades: Cadastro de remédios, notificações push, confirmação de tomada.  
@@ -9,7 +9,7 @@ Este benchmarking segue o cenário do aplicativo em questão. O foco é em um Ap
 
 ---
 
-## 10.2 Definição dos similares-alvo
+## 11.2 Definição dos similares-alvo
 
 Selecionamos apps com foco em idosos, baseados em popularidade e reviews. Exemplos:
 
@@ -31,7 +31,7 @@ Selecionamos apps com foco em idosos, baseados em popularidade e reviews. Exempl
 
 ---
 
-## 10.3 Estabelecimento de indicadores e obtenção de dados
+## 11.3 Estabelecimento de indicadores e obtenção de dados
 
 Para cada app, respondemos: 
 
@@ -50,7 +50,7 @@ Na tabela abaixo, é mostrado como ficou feita a divisão das respostas com base
 
 ---
 
-## 10.4 Comparação das Informações Coletadas
+## 11.4 Comparação das Informações Coletadas
 
 Matriz comparativa consolidada, destacando se cada similar atende (✅) ou não (❌) aos requisitos IHC do App (baseados em certezas/suposições da Matriz CSD). Escala: Verde = atende bem; Amarelo = parcial; Vermelho = não atende.  
 
@@ -65,7 +65,7 @@ Matriz comparativa consolidada, destacando se cada similar atende (✅) ou não 
 
 ---
 
-## 10.5 Resultados Estratégicos
+## 11.5 Resultados Estratégicos
 
 - **Nenhum app é 100% offline** → Oportunidade crítica para o nosso App.  
 - **DoseMed é o mais próximo** em simplicidade, mas falta WhatsApp e botão gigante.  
