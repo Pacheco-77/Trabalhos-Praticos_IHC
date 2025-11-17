@@ -1,6 +1,8 @@
-# MoSCoW – Priorização de Requisitos do Aplicativo de Lembrete de Medicamentos
+# 14. Moscow
 
-## 🟩 MUST HAVE (Obrigatórios)
+## 14.1 MoSCoW – Priorização de Requisitos do Aplicativo de Lembrete de Medicamentos
+
+### 14.1.1 🟩 MUST HAVE (Obrigatórios)
 Funcionalidades essenciais para que o app cumpra seu objetivo.
 
 | ID | Requisito | Justificativa |
@@ -16,7 +18,7 @@ Funcionalidades essenciais para que o app cumpra seu objetivo.
 
 ---
 
-## 🟦 SHOULD HAVE (Importantes)
+### 14.1.2 🟦 SHOULD HAVE (Importantes)
 Agregam valor, mas o app funciona sem eles.
 
 | ID | Requisito | Justificativa |
@@ -29,7 +31,7 @@ Agregam valor, mas o app funciona sem eles.
 
 ---
 
-## 🟪 COULD HAVE (Desejáveis)
+### 14.1.3 🟪 COULD HAVE (Desejáveis)
 Melhoram a experiência, mas não são prioridade agora.
 
 | ID | Requisito | Justificativa |
@@ -42,7 +44,7 @@ Melhoram a experiência, mas não são prioridade agora.
 
 ---
 
-## 🟥 WON’T HAVE (Não será feito agora)
+### 14.1.4 🟥 WON’T HAVE (Não será feito agora)
 Fora do escopo da primeira versão.
 
 | ID | Requisito | Justificativa |
@@ -53,7 +55,7 @@ Fora do escopo da primeira versão.
 | W4 | Relatórios clínicos avançados para hospitais | Fugiria do foco simples do app. |
 | W5 | Lembretes ativados por geolocalização | Inadequado ao público e consome bateria. |
 
-## Resumo Geral do MoSCoW
+### 14.1.5 Resumo Geral do MoSCoW
 
 - **Must Have (8 itens):**  
   Tudo o que é essencial para que o idoso receba o lembrete, visualize claramente a informação e confirme a tomada do remédio.
