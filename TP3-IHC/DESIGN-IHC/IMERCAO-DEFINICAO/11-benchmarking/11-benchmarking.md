@@ -52,7 +52,7 @@ Na tabela abaixo, é mostrado como ficou feita a divisão das respostas com base
 
 # d) Comparação das Informações Coletadas
 
-Matriz comparativa consolidada, destacando se cada similar atende () ou não () aos requisitos IHC do LembreMed (baseados em certezas/suposições da Matriz CSD). Escala: Verde = atende bem; Amarelo = parcial; Vermelho = não atende.  
+Matriz comparativa consolidada, destacando se cada similar atende (✅) ou não (❌) aos requisitos IHC do LembreMed (baseados em certezas/suposições da Matriz CSD). Escala: Verde = atende bem; Amarelo = parcial; Vermelho = não atende.  
 
 | Similar | Funcionalidades | Acessibilidade | Layout/UX | Experiência Usuário | Offline | **Score IHC (1-5)** |
 |---------|-----------------|----------------|-----------|----------------------|---------|---------------------|
