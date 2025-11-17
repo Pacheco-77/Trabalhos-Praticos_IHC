@@ -35,5 +35,26 @@ Para cada app, respondemos:
 2. Como os problemas são resolvidos? Via notificações, logs e compartilhamento.  
 3. Quais os pontos fortes e fracos dessas soluções? (Foco em IHC: usabilidade para visão/memória reduzida).
 
-Dados coletados de reviews (PMC, Healthline, DoseMed Blog, 2025):  
+Na tabela abaixo, é mostrado como ficou feita a divisão das respostas com base nos App estudados:
+
+| App Similar | Problemas Resolvidos | Como Resolvidos | Pontos Fortes | Pontos Fracos |
+|-------------|----------------------|-----------------|---------------|---------------|
+| Medisafe | Esquecimento de horários; falta de acompanhamento familiar; múltiplas dosagens. | Notificações push com som/vibração; perfis múltiplos para cuidadores; relatórios PDF/Excel exportáveis. |  Alto score MARS (4/5) em usabilidade; tutoriais educativos; integração com wearables; alertas para refil. | Relatórios difíceis de navegar; anúncios na versão free; sobrecarga visual em telas com gráficos. |
+MyTherapy
+Adesão a regimes complexos; monitoramento de sintomas/mood.
+Lembretes flexíveis + tracker de sintomas; relatórios semanais por e-mail.
+Gráficos coloridos claros; foco em motivação (recompensas); >10M usuários.
+Setup inicial desafiador para idosos; não offline total; interface com muitos menus.
+CareZone
+Organização de múltiplos remédios; agendamentos médicos; reações a doses.
+Scan de rótulos para cadastro rápido; notas sobre sintomas; compartilhamento familiar.
+Fácil para cuidadores (desktop + mobile); trackers de sintomas; HIPAA-compliant.
+Dependente de internet para sync; interface não otimizada para fontes gigantes; sem voz.
+DoseMed
+Rotinas personalizadas; interações com comida/álcool; suporte para pets/família.
+IA para lembretes adaptáveis; alertas de interações; histórico simples.
+Interface minimalista (1-2 toques); AI para idosos (voz personalizada); offline parcial.
+Novo (menos reviews); premium para IA full; foco em customização pode confundir iniciantes.
+
+
 
