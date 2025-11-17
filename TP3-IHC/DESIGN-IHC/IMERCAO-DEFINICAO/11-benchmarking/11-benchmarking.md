@@ -6,3 +6,12 @@ Este benchmarking segue o cenário do aplicativo em questão. O foco é em um Ap
 - Layout/UX: Número de telas/ações, complexidade para idosos (ex.: tutoriais, offline).  
 - Experiência do Usuário (Idoso/Cuidador): Modo cuidador, relatórios, integração familiar.  
 - Offline: Funcionamento sem internet.
+
+# b) Definição dos similares-alvo
+
+Selecionamos apps com foco em idosos, baseados em popularidade e reviews. Exemplos:
+
+- Medisafe: App popular para múltiplos perfis, com alertas para famílias.  
+- MyTherapy: Tracker com mood/symptoms, mas setup inicial complexo.  
+- CareZone: Gerenciamento familiar, com scan de rótulos.  
+- DoseMed: Novo em 2025, com IA adaptável e interface minimalista para idosos.
