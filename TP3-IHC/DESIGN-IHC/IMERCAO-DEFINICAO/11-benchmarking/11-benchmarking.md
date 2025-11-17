@@ -1,4 +1,4 @@
-<img width="478" height="429" alt="image" src="https://github.com/user-attachments/assets/678d7b7b-cb7a-4020-9674-ea3ff84f3f75" /># a) Avaliação dos itens a serem comparados
+# a) Avaliação dos itens a serem comparados
 Este benchmarking segue o cenário do aplicativo em questão. O foco é em um App mobile semelhante para lembretes de medicamentos, priorizando usabilidade para idosos e cuidadores.  Incluindo reviews de acessibilidade, funcionalidades e problemas resolvidos. Selecionamos 4 apps principais: Medisafe, MyTherapy, CareZone e DoseMed.  Os itens comparados foram definidos com base nas prioridades do projeto:  
 
 - Funcionalidades: Cadastro de remédios, notificações push, confirmação de tomada.  
