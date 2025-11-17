@@ -144,7 +144,7 @@ Sistema Avaliado: Americanas.com
        8.5.3 [Prints de Tela](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#853-prints-de-tela)  
    8.6 [Análise crítica dos resultados em relação ao domínio de IHC](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP2-IHC/8-%20%20RELATORIO/8-%20relatorio.md#86-análise-crítica-dos-resultados-em-relação-ao-domínio-de-ihc)
 
-   ## TP3
+
    ## TP-III
 
 9. [Briefing com o Cliente](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/IMERCAO-DEFINICAO/09-briefing/09-briefing.md)  
