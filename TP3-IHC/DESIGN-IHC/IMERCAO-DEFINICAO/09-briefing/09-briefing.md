@@ -36,8 +36,8 @@ Uso diário em casa, muitas vezes por pessoas com pouca familiaridade com tecnol
 - Google Calendar (exportar lembretes)
 - WhatsApp (enviar comprovante “Tomei” para o filho)
 
-### Padrão prévio
+## 9.8 Padrão prévio
 Nenhum app específico – cliente testou Medisafe, MyTherapy e CareZone, mas achou todos confusos para idosos.
 
-### Contato técnico
+## 9.9 Contato técnico
 Cliente Wamberson Pacheco – WhatsApp (92) 98465-2172
