@@ -26,3 +26,14 @@ Selecionamos apps com foco em idosos, baseados em popularidade e reviews. Exempl
 - DoseMed: Novo em 2025, com IA adaptável e interface minimalista para idosos.
   
 - <img width="1568" height="654" alt="image" src="https://github.com/user-attachments/assets/862f3d4d-7127-4537-baf0-94a451624419" />
+
+# c) Estabelecimento de indicadores e obtenção de dados
+
+Para cada app, respondemos: 
+
+1. Quais problemas o produto resolve? Esquecimento de doses, rastreio de adesão, suporte familiar.  
+2. Como os problemas são resolvidos? Via notificações, logs e compartilhamento.  
+3. Quais os pontos fortes e fracos dessas soluções? (Foco em IHC: usabilidade para visão/memória reduzida).
+
+Dados coletados de reviews (PMC, Healthline, DoseMed Blog, 2025):  
+
