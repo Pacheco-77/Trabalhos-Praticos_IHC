@@ -21,3 +21,14 @@ Legenda:
 Legenda: 
 
 <img width="898" height="454" alt="image" src="https://github.com/user-attachments/assets/5f11c85f-2487-411b-8be0-177960294347" />
+
+-----
+
+## Metamensagem Persona Acessibilidade: João Batista
+
+<img width="894" height="646" alt="image" src="https://github.com/user-attachments/assets/cb190493-5878-49c0-9664-14bed9442a82" />
+
+Legenda:
+
+<img width="898" height="454" alt="image" src="https://github.com/user-attachments/assets/ca18ead8-1342-42eb-a674-d27e071b2bd1" />
+
