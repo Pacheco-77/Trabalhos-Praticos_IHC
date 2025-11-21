@@ -1,6 +1,10 @@
 # Metamensagem
 
-A metamensagem representa a “mensagem implícita” que o designer transmite ao usuário por meio da interface. Ela expressa o que os desenvolvedores acreditam que os usuários pensam, sabem, sentem e desejam em relação ao sistema.
+As metamensagens a seguir foram criadas com base na Engenharia Semiótica, que explica como o sistema "se comunica" com o usuário por meio das opções de interface.  Cada metamensagem simboliza a conversa projetual entre o designer e um tipo específico de usuário, demonstrando as finalidades do sistema, suas funcionalidades e como ele auxilia aquele perfil específico.
+ 
+Como o aplicativo MedHora atende a diferentes perfis, foi criada uma metamensagem específica para cada persona: o idoso usuário principal, o cuidador e a pessoa com baixa visão, representando o usuário com acessibilidade.  Em cada uma delas, demonstramos como o sistema entende suas demandas, desafios, preferências e metas, explicando as decisões de design que fazem com que a experiência seja segura, fácil e acessível para cada grupo.
+
+A legenda que acompanha cada metamensagem apresenta, de forma resumida, os cinco elementos do template da Engenharia Semiótica: quem é o usuário, o que ele quer ou precisa fazer, qual solução foi projetada, como deve utilizá-la e qual mensagem a interface comunica. Isso facilita a leitura, a comparação entre personas e a compreensão estruturada do processo de design.
 
 -----
 
