@@ -4,7 +4,8 @@ Nesta etapa, a equipe elaborou duas versões do Aplicativo de baixa fidelidade, 
 ---
 
 ## Primeira versão
-<img width="3262" height="805" alt="versao01 drawio" src="https://github.com/user-attachments/assets/316066d7-9f92-417d-8678-d0eab2467280" />
+<img width="3262" height="935" alt="versao1 drawio" src="https://github.com/user-attachments/assets/60900c6d-7fdf-446f-9c69-6dfe27f54afa" />
 
 ## Segunda versão
-<img width="3274" height="821" alt="versao02 drawio" src="https://github.com/user-attachments/assets/644f4cfd-dc7c-414e-a506-f831ac4ca7f5" />
+<img width="3274" height="994" alt="versao2 drawio" src="https://github.com/user-attachments/assets/b57f1a44-bf05-49fb-9b9f-b6218aad87f9" />
+
