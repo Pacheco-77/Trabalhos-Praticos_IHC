@@ -15,3 +15,60 @@ A seguir, encontram-se descritas, de forma organizada, as telas que compõem as 
 ## 19.2 Segunda versão
 <img width="3274" height="994" alt="versao2 drawio" src="https://github.com/user-attachments/assets/b57f1a44-bf05-49fb-9b9f-b6218aad87f9" />
 
+---
+## 19.3 Descrição das Telas
+
+### **Tela 1 – Tela de Login / Acesso ao Aplicativo**
+Tela inicial onde o usuário escolhe entre acessar como Usuário, Cuidador ou criar uma nova conta. Em algumas versões, também inclui um modo de Acessibilidade.
+
+---
+
+### **Tela 2 – Página Inicial do Usuário**
+Após o login, o usuário é direcionado para uma tela que apresenta atalhos principais, como:
+- **Adicionar Medicamento**
+- **Rotina**
+- **Perfil do Cuidador**
+- **Lembretes**
+  
+Também pode exibir alertas de Medicamentos Pendentes, facilitando o acompanhamento diário.
+
+---
+
+### **Tela 3 – Lista de Medicamentos / Medicamentos Pendentes**
+Tela dedicada à visualização dos medicamentos programados para o dia. Apresenta:
+- Horários
+- Nome dos medicamentos
+- Dose
+- Indicadores visuais de medicamentos tomados ou pendentes
+
+---
+
+### **Tela 4 – Perfil do Usuário**
+Traz informações importantes do usuário, como:
+- Idade  
+- Nome do cuidador  
+- Telefone de emergência  
+- Tipo sanguíneo  
+- Cuidados necessários  
+
+---
+
+### **Tela 5 – Página Inicial do Cuidador**
+Ao acessar como cuidador, a página inicial apresenta funcionalidades como:
+- **Adicionar Medicamento ao dependente**
+- **Controle Parental**
+- **Rotina**
+- **Dependentes**
+- **Relatórios**
+
+
+---
+
+### **Tela 6 – Perfil do Cuidador**
+Exibe informações pessoais do cuidador, incluindo:
+- Idade
+- Dependentes vinculados
+- Telefone de contato
+- Tipo sanguíneo (quando aplicável)
+
+
