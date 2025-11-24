@@ -13,9 +13,9 @@ As HTAs são organizadas por tema para facilitar a leitura e a implementação n
 
 # HTA 1 — Verificar se Tomou Remédio
 
+<img width="16384" height="5468" alt="TELAS IHC-Página-1 drawio (4)" src="https://github.com/user-attachments/assets/7710ef0e-2e73-45d8-9701-f0da201bf920" />
 
 
-<img width="8710" height="2910" alt="verificar se tomou remedio" src="https://github.com/user-attachments/assets/0f81d0d8-a959-4102-bcad-cb1504764bf9" />
 
 **Resumo:**  
 HTA focada na verificação da adesão ao medicamento, integrando alertas e histórico para evitar doses perdidas.
