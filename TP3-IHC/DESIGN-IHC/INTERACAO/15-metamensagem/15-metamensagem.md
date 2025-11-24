@@ -1,4 +1,4 @@
-# Metamensagem
+# 15. Metamensagem
 
 As metamensagens a seguir foram criadas com base na Engenharia Semiótica, que explica como o sistema "se comunica" com o usuário por meio das opções de interface.  Cada metamensagem simboliza a conversa projetual entre o designer e um tipo específico de usuário, demonstrando as finalidades do sistema, suas funcionalidades e como ele auxilia aquele perfil específico.
  
@@ -8,7 +8,7 @@ A legenda que acompanha cada metamensagem apresenta, de forma resumida, os cinco
 
 -----
 
-## Metamensagem Persona Usuário Alvo - Idoso: Sebastião Alencar
+## 15.1 Metamensagem Persona Usuário Alvo - Idoso: Sebastião Alencar
 
 A metamensagem a seguir explica como o aplicativo MedHora foi projetado para apoiar o idoso em sua rotina de medicação, considerando suas dificuldades com tecnologia, visão e memorização. Ela expressa a intenção do designer de criar uma experiência simples, acessível e confiável.
 
@@ -22,7 +22,7 @@ A legenda resume os principais elementos da comunicação projetual com essa per
 
 ----
 
-## Metamensagem Persona Cuidador/Responsával: Maria Oliveira
+## 15.2 Metamensagem Persona Cuidador/Responsával: Maria Oliveira
 
 A metamensagem abaixo descreve a forma como o MedHora se comunica com o cuidador, que acompanha a rotina medicamentosa de um idoso à distância. Ela mostra como o sistema oferece segurança, clareza e controle compartilhado.
 
@@ -36,7 +36,7 @@ A legenda final sintetiza os elementos essenciais da Engenharia Semiótica aplic
 
 -----
 
-## Metamensagem Persona Acessibilidade: João Batista
+## 15.3 Metamensagem Persona Acessibilidade: João Batista
 
 A metamensagem seguinte apresenta como o MedHora foi pensado para usuários com baixa visão ou dependentes de tecnologias assistivas, destacando acessibilidade, autonomia e clareza sonora. Ela revela as intenções do designer ao criar uma interface totalmente compatível com leitores de tela e comandos de voz.
 
