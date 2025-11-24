@@ -194,5 +194,8 @@ Sistema Avaliado: Americanas.com
 16. [Mapas de Objetivos](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/16-mapas-objetivos/16-mapas-objetivos.md)
 17. [HTAs](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/17-HTAs/17-HTAs.md)
 18. [Diagramas MoLIC](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/18-diagramas-MoLIC/18-diagramas-MoLIC.md)
-19. [Sketches](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/19-sketches/19-sketches.md)
+19. [Sketches](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/19-sketches/19-sketches.md)  
+   19.1. [Primeira versão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/19-sketches/19-sketches.md#191-primeira-vers%C3%A3o)  
+   19.2. [Segunda versão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/DESIGN-IHC/INTERACAO/19-sketches/19-sketches.md#192-segunda-vers%C3%A3o)
+
 
