@@ -6,7 +6,7 @@
 + A1: Ana Paula Xavier — 22352610
 + A2: Josiel Santos Monteiro — 22352319
 + A3: Wamberson Pacheco — 22352620
-+ A4: Eugênio — 22352093
++ A4: Eugênio Oliveira — 22352093
 
 
 Docente: Prof. Dr. Andrey Rodrigues
