@@ -1,12 +1,48 @@
 # Ícones 
+Os ícones usados no MedHora seguem um estilo linear, simples e de alto contraste, garantindo clareza visual e fácil interpretação por idosos, cuidadores e pessoas com baixa visão. O conjunto visual é coerente em toda a interface, mantendo o mesmo padrão de espessura de linha, proporção e estilo, o que melhora a consistência semântica e reduz ambiguidades de leitura.
+
+## Ícones Principais
+
+<img width="578" height="444" alt="image" src="https://github.com/user-attachments/assets/253f73ee-5d69-4d3f-a1e4-ce536b1e44e6" />
+
+## Ícones Secundários
 
 
+---
+## Análise de Estilo e Comunicabilidade
 
-# Ilustrações
+Estilo de Ícones e Ilustrações
+
+O aplicativo MedHora utiliza um estilo de ícones que pode ser classificado como Flat ou Minimalista, com as seguintes características:
+
+- Linhas Simples e Geométricas: Os ícones são compostos por formas básicas e contornos claros (ex: o círculo da lua, o quadrado com canto arredondado da gota).
+
+- Preenchimento Sólido com Cores Vivas: A maioria dos ícones usa preenchimento de cor sólida dentro do contorno (ex: o telefone azul, a maçã laranja), ou são apenas contornos mais grossos com cores vibrantes (ex: o + roxo, a seta de Voltar azul).
+
+- Paleta de Cores Funcional: As cores são usadas para distinguir a função. O verde e o azul são cores primárias (Ação/Informação), o vermelho é para ações críticas (LIGAR AGORA), e cores específicas (laranja, amarelo, roxo) são usadas para rotinas e lembretes específicos.
+
+Consistência Semântica
+O aplicativo demonstra alta consistência semântica no uso dos ícones-chave:
+
+Navegação Principal:
+
+- Início (Casa): Universalmente reconhecido como o ponto de partida.
+
+- Perfil (Usuário): Padrão para configurações pessoais e dados do usuário.
+
+- Horários (Relógio): Associa-se claramente à rotina e ao tempo, que é o cerne do aplicativo.
+
+- Ação de Adicionar: O ícone + (Mais) é sempre usado para a ação de adição (Adicionar Medicamento, Criar Conta), mantendo a coerência.
+
+- Ação de Retorno: A Seta para a esquerda (←) é usada de forma consistente nos cabeçalhos para navegar para a tela anterior.
+
+- Lembretes: Os ícones de lembretes (Gota/Água, Maçã/Comida, Sol/Caminhar, Lua/Dormir) são usados de forma exclusiva e associativa, garantindo que o usuário aprenda rapidamente o que cada cor/forma significa para suas rotinas.
+
+
 
 ----
 
-# Nome
+# Nome do Aplicativo
 O nome MEdHora é uma junção direta e intuitiva de dois elementos fundamentais do aplicativo:
 
 1. “Med” → Medicamento / Medicação
