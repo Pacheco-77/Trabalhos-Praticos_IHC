@@ -4,7 +4,7 @@
 
 Tela inicial de acesso ao aplicativo, focada na entrada de credenciais e opções de conta.
 
-<img width="500" height="500" alt="Tela1" src="https://github.com/user-attachments/assets/e4d93894-98c9-474d-9e88-939b33d284b2" />
+<img width="440" height="956" alt="login" src="https://github.com/user-attachments/assets/cf8e533b-63c4-4c51-8c07-d036d7d157a7" />
 
 
 | **Aspecto**        | **Análise** |
