@@ -1,5 +1,4 @@
-## Mural de Inspiração – Aplicativo de Lembrete de Medicamentos para Idosos e Cuidadores
-
+## 20. Mural de Inspiração
 Este mural reúne referências visuais utilizadas no processo de criação da interface do meu aplicativo, desenvolvido com foco em idosos e cuidadores. O objetivo do aplicativo é facilitar o cadastro e o acompanhamento de medicamentos, garantindo que usuários recebam lembretes acessíveis, claros e confiáveis para o uso correto dos remédios.
 
 As telas selecionadas neste mural destacam boas práticas de **design acessível**, como tipografia ampliada, navegação simplificada, contrastes adequados e ícones intuitivos. Além disso, as referências contribuem para a definição da identidade visual do projeto, servindo como base para decisões relacionadas à usabilidade, paleta de cores, layout e estrutura de informações.
