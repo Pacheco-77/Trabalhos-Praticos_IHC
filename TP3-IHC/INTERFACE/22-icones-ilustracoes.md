@@ -1,4 +1,4 @@
-# Ícones 
+# 22. Ícones 
 Os ícones usados no MedHora seguem um estilo linear, simples e de alto contraste, garantindo clareza visual e fácil interpretação por idosos, cuidadores e pessoas com baixa visão. O conjunto visual é coerente em toda a interface, mantendo o mesmo padrão de espessura de linha, proporção e estilo, o que melhora a consistência semântica e reduz ambiguidades de leitura.
 
 ## Ícones Principais
