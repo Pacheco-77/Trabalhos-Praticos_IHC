@@ -70,7 +70,8 @@ Heurísticas de Nielsen
 ## Tela 4: Cuidador 
 Tela para visualizar informações de contato e a identidade do Cuidador Responsável.
 
-<img width="440" height="1365" alt="CUIDADOR" src="https://github.com/user-attachments/assets/b930a077-98aa-474c-9a4b-ba2a469607ff" />
+<img width="340" height="716" alt="image" src="https://github.com/user-attachments/assets/ab1c7093-f9ab-44ca-af96-f909779864ae" />
+
 
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
@@ -90,7 +91,8 @@ Heurísticas de Nielsen
 ## Tela 5: Lembretes
 Tela para visualizar e gerenciar lembretes de rotina não relacionados a medicamentos (hábitos).
 
-<img width="440" height="1206" alt="LEMBRETES" src="https://github.com/user-attachments/assets/d7d4b2b6-1c04-40e6-a9e6-44e2f373cb1f" />
+<img width="346" height="723" alt="image" src="https://github.com/user-attachments/assets/a816bc63-1331-4302-bd29-e0b649be6a1c" />
+
 
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
@@ -112,7 +114,8 @@ Heurísticas de Nielsen
 ## Tela 6: Lista de Medicamentos 
 Tela principal para visualização de todos os medicamentos agendados e seus respectivos horários.
 
-<img width="440" height="1048" alt="LISTA DE MEDICAMENTOS" src="https://github.com/user-attachments/assets/c26e609c-e4c2-4572-b163-345529c5e72e" />
+<img width="343" height="726" alt="image" src="https://github.com/user-attachments/assets/986308b0-d026-4006-a7be-c4b60bda0996" />
+
 
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
