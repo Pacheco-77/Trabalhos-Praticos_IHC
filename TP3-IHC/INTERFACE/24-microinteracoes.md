@@ -2,7 +2,7 @@
 
 O vídeo demonstra o fluxo principal de interação do protótipo desenvolvido no Figma, apresentando o funcionamento das telas e a navegação prevista no aplicativo. O objetivo é ilustrar de forma clara como o usuário (idoso ou cuidador) percorre cada etapa do sistema.
 
-### 🔄 Fluxo Apresentado no Vídeo
+### Fluxo Apresentado no Vídeo
 
 1. **Tela de Login**
    - Início da simulação com o usuário acessando o aplicativo pela tela de login.
