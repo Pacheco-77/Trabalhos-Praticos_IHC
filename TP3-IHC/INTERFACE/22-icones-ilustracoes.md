@@ -3,9 +3,15 @@ Os ícones usados no MedHora seguem um estilo linear, simples e de alto contrast
 
 ## Ícones Principais
 
+Os ícones primários representam as ações mais importantes e frequentes do aplicativo, como navegar pelas telas principais, registrar tomadas e acessar funcionalidades essenciais. Eles foram desenvolvidos em estilo simples e de alto contraste, garantindo fácil reconhecimento por idosos, cuidadores e pessoas com baixa visão. Cada ícone transmite seu significado de forma direta e universal, reduzindo esforço cognitivo e facilitando a interação com o app.
+
 <img width="578" height="444" alt="image" src="https://github.com/user-attachments/assets/253f73ee-5d69-4d3f-a1e4-ce536b1e44e6" />
 
 ## Ícones Secundários
+
+Os ícones secundários complementam a interface, aparecendo em ações específicas, opções adicionais e detalhes informativos. Embora tenham menor frequência de uso, seguem o mesmo padrão visual dos ícones primários para manter consistência e previsibilidade. Eles reforçam a comunicação visual do app sem causar sobrecarga para o usuário, ajudando a identificar funções de apoio e informações contextuais com clareza.
+
+<img width="525" height="644" alt="image" src="https://github.com/user-attachments/assets/460d6e88-09c8-49a6-91eb-c4b613b50d63" />
 
 
 ---
