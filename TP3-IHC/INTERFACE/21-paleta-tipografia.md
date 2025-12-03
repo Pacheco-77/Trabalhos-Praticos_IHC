@@ -1,4 +1,4 @@
-# Paleta de Cores e Tipografia 
+# 21. Paleta de Cores e Tipografia 
 
 A paleta de cores do MedHora foi desenvolvida para garantir clareza, acessibilidade e confiança, atendendo especialmente idosos, cuidadores e pessoas com baixa visão. Cada cor foi selecionada de acordo com princípios de psicologia das cores, contraste visual e coerência com a proposta do aplicativo: oferecer um ambiente seguro, acolhedor e fácil de usar. A seguir, apresentamos a tabela oficial com todas as cores utilizadas na interface, seus códigos HEX, aplicações e funções dentro da identidade visual do projeto.
 
