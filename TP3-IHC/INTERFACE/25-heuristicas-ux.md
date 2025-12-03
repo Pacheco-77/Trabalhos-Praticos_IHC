@@ -27,6 +27,8 @@ Heurísticas de Nielsen
 ## Tela 2: Inicial App
 Tela de boas-vindas e painel principal com ações rápidas e resumo de pendências.
 
+<img width="440" height="956" alt="INICIAL APP" src="https://github.com/user-attachments/assets/d20837c1-4112-4057-8a9d-1091be219ac0" />
+
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
 | Usabilidade       | Botões grandes com alta facilidade de toque favorecem interações frequentes. |
@@ -47,6 +49,8 @@ Heurísticas de Nielsen
 ## Tela 3: Cadastro Medicamento
 Tela de formulário dedicada à entrada de informações para adicionar um novo medicamento ao sistema.
 
+<img width="440" height="956" alt="CADASTRO MEDICAMENTO" src="https://github.com/user-attachments/assets/4284ceff-14f6-4dd2-b359-e1c39e94161d" />
+
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
 | Usabilidade       | Formulário simples, com campos empilhados e rótulos claros. |
@@ -66,6 +70,8 @@ Heurísticas de Nielsen
 ## Tela 4: Cuidador 
 Tela para visualizar informações de contato e a identidade do Cuidador Responsável.
 
+<img width="440" height="1365" alt="CUIDADOR" src="https://github.com/user-attachments/assets/b930a077-98aa-474c-9a4b-ba2a469607ff" />
+
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
 | Usabilidade       | Botão “LIGAR AGORA” grande e destacado para ação imediata. |
@@ -83,6 +89,8 @@ Heurísticas de Nielsen
 
 ## Tela 5: Lembretes
 Tela para visualizar e gerenciar lembretes de rotina não relacionados a medicamentos (hábitos).
+
+<img width="440" height="1206" alt="LEMBRETES" src="https://github.com/user-attachments/assets/d7d4b2b6-1c04-40e6-a9e6-44e2f373cb1f" />
 
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
@@ -104,6 +112,8 @@ Heurísticas de Nielsen
 ## Tela 6: Lista de Medicamentos 
 Tela principal para visualização de todos os medicamentos agendados e seus respectivos horários.
 
+<img width="440" height="1048" alt="LISTA DE MEDICAMENTOS" src="https://github.com/user-attachments/assets/c26e609c-e4c2-4572-b163-345529c5e72e" />
+
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
 | Usabilidade       | Lista com boa escaneabilidade para grandes quantidades de dados. |
@@ -122,6 +132,8 @@ Heurísticas de Nielsen
 
 ## Tela 7: Perfil Usuário Idoso
 Tela para visualização de dados pessoais do usuário e gestão de configurações da conta.
+
+<img width="440" height="957" alt="Perfil" src="https://github.com/user-attachments/assets/f1e4bc79-067d-4f60-9ae4-4069f782a411" />
 
 | **Aspecto**        | **Análise** |
 |-------------------|-------------|
