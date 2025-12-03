@@ -20,3 +20,6 @@
 
 ## Perfil
 <img width="440" height="957" alt="Perfil" src="https://github.com/user-attachments/assets/f1e4bc79-067d-4f60-9ae4-4069f782a411" />
+
+## Link para o Protótipo
+[Protótipo](https://www.figma.com/proto/kg8lClqoPHAeWZy4Ag1Gsx/MEdHora?node-id=88-762&p=f&t=sqZuzvSypEwh7kE5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=74%3A284)
