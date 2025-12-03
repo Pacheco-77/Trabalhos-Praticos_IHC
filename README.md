@@ -198,4 +198,9 @@ Sistema Avaliado: Americanas.com
    19.1. [Primeira versão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERACAO/19-sketches.md#191-primeira-vers%C3%A3o)  
    19.2. [Segunda versão](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERACAO/19-sketches.md#192-segunda-vers%C3%A3o)  
    19.3. [Descrição das Telas](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERACAO/19-sketches.md#193-descri%C3%A7%C3%A3o-das-telas)
-
+20. [Mural de Inspiração](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERFACE/20-mural-de-inspiracao.md)
+21. [Paleta Tipográfica](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERFACE/21-paleta-tipografia.md)
+22. [Icones e Ilustrações](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERFACE/22-icones-ilustracoes.md)
+23. [Design Final](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERFACE/23-design-final.md)
+24. [Microinterações](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERFACE/24-microinteracoes.md)
+25. [Heurísticas UX](https://github.com/Pacheco-77/Trabalhos-Praticos_IHC/blob/main/TP3-IHC/INTERFACE/25-heuristicas-ux.md)
